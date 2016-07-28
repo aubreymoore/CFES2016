@@ -1,0 +1,3501 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass scrartcl
+\begin_preamble
+\usepackage{mciteplus}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks true
+\pdf_pdfborder true
+\pdf_colorlinks true
+\pdf_backref page
+\pdf_pdfusetitle true
+\pdf_quoted_options "linkcolor=blue,citecolor=blue,urlcolor=blue"
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+University of Guam
+\begin_inset Newline newline
+\end_inset
+
+ College of Natural and Applied Sciences
+\begin_inset Newline newline
+\end_inset
+
+ Cooperative Extension and Outreach
+\begin_inset Newline newline
+\end_inset
+
+ 
+\begin_inset VSpace 10mm
+\end_inset
+
+ Comprehensive Faculty Evaluation System
+\begin_inset Newline newline
+\end_inset
+
+ 
+\begin_inset VSpace 10mm
+\end_inset
+
+ Annual Report
+\begin_inset Newline newline
+\end_inset
+
+June 15, 2015 - June 15, 2016
+\end_layout
+
+\begin_layout Author
+Aubrey Moore
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+ 
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Personal Information and Roles
+\end_layout
+
+\begin_layout Subsection
+Basic Information
+\end_layout
+
+\begin_layout Standard
+\align left
+\begin_inset Tabular
+<lyxtabular version="3" rows="2" columns="2">
+<features tabularvalignment="middle">
+<column alignment="left" valignment="top" width="0">
+<column alignment="left" valignment="top" width="0">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Current Rank and Step:
+\series default
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Entomologist / Associate Professor
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Evaluation Period:
+\series default
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+June 2015 - May 2016
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Role Assignments
+\end_layout
+
+\begin_layout Standard
+\align left
+\begin_inset Tabular
+<lyxtabular version="3" rows="6" columns="2">
+<features tabularvalignment="middle">
+<column alignment="left" valignment="top" width="0">
+<column alignment="left" valignment="top" width="0">
+<row>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Percent of Time
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Extension and Outreach:
+\series default
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+51% (primary focus must be at least 50%)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Creative/Research/Scholarly:
+\series default
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+34%
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Instruction:
+\series default
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0%
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+University Service:
+\series default
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+15%
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+TOTAL:
+\series default
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+100%
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Consulting Activities During Performance Period
+\end_layout
+
+\begin_layout Standard
+None
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Signatures
+\end_layout
+
+\begin_layout Standard
+As called for by the University 
+\begin_inset CommandInset href
+LatexCommand href
+name "Comprehensive Faculty Evaluation System"
+target "https://www.dropbox.com/s/d8kl7dzdayfhafk/cfes.pdf"
+
+\end_inset
+
+, I hereby acknowledge that I have notified my unit Chair and unit colleagues
+ of my preferences for role assignments.
+\end_layout
+
+\begin_layout Standard
+Further, I have met with my appropriate administrative supervisor and discussed
+ my evaluation plan for the period above cited.
+ I understand that amendments to my plan are possible and that said amendments,
+ if any, are to be discussed with and agreed upon by my administrator prior
+ to initiating.
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Tabular
+<lyxtabular version="3" rows="9" columns="2">
+<features tabularvalignment="middle">
+<column alignment="left" valignment="top" width="0">
+<column alignment="left" valignment="top" width="0">
+<row>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 1
+width "2in"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset space \hrulefill{}
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 1
+width "2.5in"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset space \hrulefill{}
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Faculty Member 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Date
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 1
+width "2in"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset space \hrulefill{}
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 1
+width "2.5in"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset space \hrulefill{}
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Associate Dean 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Date
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 1
+width "2in"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset space \hrulefill{}
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 1
+width "2.5in"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset space \hrulefill{}
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Dean/Director 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Date
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Activities
+\end_layout
+
+\begin_layout Subsection
+Extension and Outreach (51%)
+\end_layout
+
+\begin_layout Subsubsection
+Insect Diagnostic Services 
+\end_layout
+
+\begin_layout Paragraph
+Planned Activity
+\end_layout
+
+\begin_layout Standard
+As an extension entomologist, a major part of my job is providing insect
+ identification and pest control recommendations to a diverse clientele
+ including commercial growers, gardeners, householders, GovGuam and federal
+ agency personnel, and University of Guam colleagues.
+ Most client contacts are initiated by a phone call or a visit by the client
+ to the ANR office.
+ In many cases identification and pest control recommendations require a
+ site visit by me and/or extension associates to collect samples to define
+ the problem and develop recommendations.
+ In some cases, I am sent digital images of insects and damage caused by
+ them.
+\end_layout
+
+\begin_layout Standard
+As an official USDA-APHIS cooperator, I am obligated to identify insects
+ intercepted by Guam Customs and Quarantine and specimens submitted to the
+ USDA-APHIS Guam Plant Inspection Facility.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Planned Evidence of Accomplishment
+\end_layout
+
+\begin_layout Standard
+Identification records; some documented as iNaturalist observations.
+ GCQA disposition forms.
+ Press releases and interviews.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Planned Evaluation By
+\end_layout
+
+\begin_layout Paragraph
+Actual Activity
+\end_layout
+
+\begin_layout Standard
+The number of extension calls requiring my assistance during the reporting
+ year averaged approximately three per day.
+\end_layout
+
+\begin_layout Standard
+During this reporting year, my USDA-APHIS cooperator workload was very high
+ because the Guam Territorial Entomologist retired and there was a campaign
+ to intercept pests arriving with the Pacific Festival of the Arts.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Actual Evidence of Accomplishment
+\end_layout
+
+\begin_layout Itemize
+Insect diagnostic cases documented as iNat observations:
+\end_layout
+
+\begin_layout Itemize
+Press stories on flies discovered in nipa leaves imported from the Philippines
+ for FestPac: 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "blueflies,festpac,invasive,ourview,quarantine"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Press release I wrote with Olympia Terral, intended to highlight cooperation
+ among GCQA, Guam Agriculture, USDA-APHIS, and UOG:
+\end_layout
+
+\begin_layout Itemize
+Press stories triggerred by the above press release:
+\end_layout
+
+\begin_layout Paragraph
+Actual Evaluation By
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Detection and Documentation of Invasive Species 
+\end_layout
+
+\begin_layout Paragraph
+Planned Activity
+\end_layout
+
+\begin_layout Standard
+As with any other tropical island, Guam is extremely susceptible to environmenta
+l and economic damage by invasive species.
+ Despite this fact, Guam's biosecurity is very weak and invasive species,
+ many of them insects, are arriving at unprecedented rates.
+ Bioinvasions are grossly under-reported for several reasons:
+\end_layout
+
+\begin_layout Enumerate
+Professional capacity is lacking.
+ Twenty years ago, there were 9 PhD level entomologists practising in Micronesia.
+ Only 2 remain (Moore, Miller), despite an increased workload largely due
+ to arrival of the cycad scale, coconut rhinoceros beetle and little fire
+ ant and other invasive species of insects.
+ UOG typically has 4 entomologists.
+ We now have 2.
+ 
+\end_layout
+
+\begin_layout Enumerate
+We suffer from the 
+\emph on
+taxonomic impediment
+\emph default
+.
+ The two remaining PhD level entomologists are generalists without the skills
+ and resources for species determination of most insect groups.
+ Timely and accurate species determination is a necessary first step in
+ response to a new pest invasion.
+ 
+\end_layout
+
+\begin_layout Enumerate
+There is no ongoing biological survey of Guam with the goal of establishing
+ a baseline biodiversity inventory and detecting newly arrived invasive
+ species.
+ Unfortunately, CAPS surveys are usually focused on demonstrating absence
+ of specific agricultural pests rather than detecting new invasions.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Even when invasive species are detected and properly identified, first island
+ records are not documented and the information is not published in the
+ scientific press.
+ 
+\end_layout
+
+\begin_layout Standard
+In an attempt to improve this situation, I have set myself up as a 
+\emph on
+registrar
+\emph default
+ for new insect species arriving on Guam with the intent of properly documenting
+ the ongoing bioinvasion of Guam.
+ The procedure I am trying to establish is: 
+\end_layout
+
+\begin_layout Enumerate
+First detector sends me a digital image and/or specimen 
+\end_layout
+
+\begin_layout Enumerate
+Specimens are prepared and accessioned into the UOG insect collection
+\end_layout
+
+\begin_layout Enumerate
+A fact sheet is prepared using a template for Guam New Invasive Species
+ Alerts
+\end_layout
+
+\begin_layout Enumerate
+The fact sheet is distributed to a list of stakeholders
+\end_layout
+
+\begin_layout Enumerate
+Taxonomic assistance is obtained for an authoritative species determination.
+ 
+\end_layout
+
+\begin_layout Enumerate
+A journal article is prepared and published in a refereed scientific journal.
+ At this point the new geographical distribution data become available to
+ the scientific community via the Global Biodiversity Facility (GBIF).
+ 
+\end_layout
+
+\begin_layout Standard
+Although I have been able to generate about a dozen invasive species alerts
+ over the past years, only one new island record has made it into a peer
+ reviewed journal.
+\end_layout
+
+\begin_layout Paragraph
+Planned Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Planned Evaluation By
+\end_layout
+
+\begin_layout Paragraph
+Actual Activity
+\end_layout
+
+\begin_layout Paragraph
+Actual Evidence of Accomplishment
+\end_layout
+
+\begin_layout Standard
+New island records.
+\end_layout
+
+\begin_layout Paragraph
+Actual Evaluation By
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+ University of Guam Insect Collection 
+\end_layout
+
+\begin_layout Paragraph
+Planned Activity
+\end_layout
+
+\begin_layout Standard
+The UOG insect collection is a valuable reference collection for extension
+ entomology, teaching and research.
+ I am a member of the board of directors for the collection and I work with
+ Dr.
+ Ross Miller to curate and catalog this collection.
+ 
+\end_layout
+
+\begin_layout Standard
+To increase my knowledge of collection management, I attend the annual meetings
+ of the Entomological Collections Network, which are typically held in conjuncti
+on with annual meetings for the Entomological Society of America.
+\end_layout
+
+\begin_layout Standard
+I have a professional goal of building an online website to share all available
+ information on Micronesian insects.
+ This will include specimen level information for the collection complete
+ with digital images and literature references.
+ 
+\end_layout
+
+\begin_layout Standard
+Here is a record of progress towards that goal:
+\end_layout
+
+\begin_layout Enumerate
+I built a digital catalog for the collection is using the BioLink Biodiversity
+ Information Management System from CSIRO, Australia.
+ The catalog currently contains 29,200 specimen records.
+ BioLink is currently being redeveloped as an open source project (
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://code.google.com/p/biolink/
+\end_layout
+
+\end_inset
+
+).
+ In am an active collaborator in this project.
+ In July 2012 I published an article entitled 
+\emph on
+Hosting a Biolink Database in the Amazon Web Services Cloud (EC2)
+\emph default
+ on the project's wiki (
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://code.google.com/p/biolink/wiki/BioLinkEC2
+\end_layout
+
+\end_inset
+
+).
+ 
+\end_layout
+
+\begin_layout Enumerate
+I have built and evaluated two websites for serving information on Micronesian
+ insect biodiversity, including specimen level data from the collection.
+ One is a Drupal content management system template called LifeDesk provided
+ the Encyclopedia of Life Project and the other is a similar template called
+ ScratchPads provided by the Museum of Natural History in London.
+ I am honored to have been selected as an advocate for ScratchPads as part
+ of the project's Ambassadors program (
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://scratchpads.eu/locate-scratchpad-ambassadors
+\end_layout
+
+\end_inset
+
+).
+ 
+\end_layout
+
+\begin_layout Enumerate
+In March 2014 I travelled to Honolulu to attend the Biodiversity Collections
+ Digitization in the Pacific workshop sponsored by the Integrated Digitized
+ Biocollections (IDigBio).
+ I made an oral presentation entitled 
+\emph on
+Evaluation of a Scratchpad Template as an Online Database for the University
+ of Guam Insect Collection
+\emph default
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "moore2014evaluation"
+
+\end_inset
+
+ at this workshop.
+ 
+\end_layout
+
+\begin_layout Enumerate
+In May 2014 I met with Dr.
+ Bob Foottit at the Canadian National Insect Collection in Ottawa to discuss
+ progress and future directions for the UOG collection.
+ Dr.
+ Foottit is a member of the board of directors for the UOG Insect collection.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Planned Evidence of Accomplishment
+\end_layout
+
+\begin_layout Standard
+none
+\end_layout
+
+\begin_layout Paragraph
+Planned Evaluation By
+\end_layout
+
+\begin_layout Paragraph
+Actual Activity
+\end_layout
+
+\begin_layout Enumerate
+I have begun evaluating Specify as an online database for the UOG Insect
+ Collection.
+ iDigBio recommends Specify as the online collection database of choice
+ for small biological collections.
+\end_layout
+
+\begin_layout Enumerate
+Whenever, taxonomists visit Guam, I recruit their expert help to improve
+ the collection.
+ Dr.
+ Mary-Liz Jamison and Dr.
+ Josh Dunlap visited during January 14-16, 2016 and worked on the scarab
+ beetles.
+ Dr.
+ Peter Maddison visited Guam June 23-29, 2016 and put together a synoptic
+ collection of common insects using specimens collected by students.
+\end_layout
+
+\begin_layout Paragraph
+Actual Evidence of Accomplishment
+\end_layout
+
+\begin_layout Standard
+none
+\end_layout
+
+\begin_layout Paragraph
+Actual Evaluation By
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Guam Coconut Rhinoceros Beetle Project 
+\end_layout
+
+\begin_layout Paragraph
+Planned Activity
+\end_layout
+
+\begin_layout Standard
+This is currently my largest and most time consuming project.
+ 
+\end_layout
+
+\begin_layout Standard
+The coconut rhinoceros beetle (CRB) was first detected on Guam in the Tumon
+ Beach hotel area on September 11, 2007.
+ CRB is a very serious pest of coconut palms.
+ Adult beetles may kill coconuts and other palms when they bore into the
+ crowns to feed on sap.
+ When CRB invaded Palau during the Second World War, it killed about half
+ of all coconuts through the islands and totally exterpated the coconut
+ palm from some of them.
+ A delimitation survey indicated that the Guam infestation was limited to
+ Tumon Bay and the adjacent Faifai Beach.
+ In consultation with the Guam Department of Agriculture (GDOA), USDA-APHIS,
+ and USDA-Forest Survey, it was decided to launch an eradication project.
+ 
+\end_layout
+
+\begin_layout Standard
+I wrote the original eradication plan and this was funded by USDA and local
+ funds.
+ USDA provided funds under the condition that the poject was to be run under
+ an Incident Command System with the USDA-APHIS Guam Port Director as the
+ federal commander, and the GDOA Director, or designee, as the local commander.
+\end_layout
+
+\begin_layout Standard
+My original role was to provide scientific/technical support for the project,
+ with the Guam Department of Agriculture (GDOA) providing project management
+ with assistance from USDA-APHIS and USDA-Forest Service.
+ However, it soon became apparent that GDOA had serious bureaucratic impediments
+ which prevented hiring staff and procuring supplies and equipment within
+ a reasonable time frame.
+ The eradication project directors, with the consent of the Dean, agreed
+ to run project staffing, procurement, and fiscal management through the
+ University.
+ As a result, my role expanded to include much of the project management.
+ 
+\end_layout
+
+\begin_layout Standard
+In December 2013, an infestation of CRB was detected on Hickam Air Force
+ Base on Oahu.
+ Roland Quitugua and myself were recruited as subject matter experts and
+ spent a week in Honolulu advising an incident command team set up by APHIS.
+ 
+\end_layout
+
+\begin_layout Standard
+I have formed two collaborative research groups to do applied research aimed
+ at controlling CRB damage.
+ Dr.
+ Sean Marshall and Dr.
+ Trevor Jackson at AgResearch New Zealand collaborate with me on biological
+ control using oryctes nudivirus (OrNV) and CRB population genetics.
+ Dr.
+ Matthew Siderhurst a chemical ecologist at the Eastern Mennonite University
+ in Virginia collaborates with me on CRB trap improvement and CRB behavior.
+ 
+\end_layout
+
+\begin_layout Standard
+In December 2013, an infestation of CRB was detected on Hickam Air Force
+ Base on Oahu.
+ Roland Quitugua and myself were recruitedlthough I have amm as subject
+ matter experts and spent a week in Honolulu advising an incident command
+ system (ICS) team set up by APHIS.
+ Later, we were both added to a national technical working group (TWG) for
+ CRB.
+ I built and maintain an online, full-text bibliographic for use by the
+ TWG at 
+\backslash
+url{http://guaminsects.myspecies.info/CRB_biblio}.
+\end_layout
+
+\begin_layout Standard
+Frequent requests for scientific/technical information from the ICS, TWG
+ and Hawaii Department of Agriculture (several queries per week) has significant
+ly increased my workload over the past several months.
+\end_layout
+
+\begin_layout Standard
+Early in 2015, the directors of the Western IPM Center at UC Davis asked
+ me to help organize a meeting to prioritize applied research needs for
+ development of CRB IPM.
+ I co-authored an agenda and attendance list with Arnold Hara and Roland
+ Quitugua.
+ The meeting took place at the Hawaii Department of Agriculture on April
+ 3, 2015 and was chaired by WIPM Center Director Kassim Al-Khatib.
+\end_layout
+
+\begin_layout Paragraph
+Planned Evidence of Accomplishment
+\end_layout
+
+\begin_layout Standard
+none
+\end_layout
+
+\begin_layout Paragraph
+Planned Evaluation By
+\end_layout
+
+\begin_layout Paragraph
+Actual Activity
+\end_layout
+
+\begin_layout Enumerate
+Discovery of arboreal breeding of CRB on Guam
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Refereed journal article published
+\noun on
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+after "hard copy provided"
+key "moore2015coconut"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Prepared press release and web post with Olympia Terral 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "olympiaterralbreeding"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Press articles : 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "guampacificdailynewsrhinobeetles,ustodaystudysnakes,olympiaterralbreeding"
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Radio-tracking CRB to find cryptic breeding sites: 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Referred journal article submitted 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "moore2016judasbeetles"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Press release 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Discovery of the CRB-Guam biotype
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Whitepaper prepared as requested by the Western IPM Center 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "marshallcrbgwhite"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Discovery of the CRB-Guam biotype announced at a Society for Invertebrate
+ Pathology meeting 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "marshall2015anew"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Fact sheet on CRB-G prepared for SPC 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "vaqalo2015pestalert"
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Movement of packaged soil as a dispersal pathway for coconut rhinoceros
+ beetles.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Refereed journal article submitted and accepted 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "moore2016movement"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Press release and web article prepared with Olympia Terral 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "olympiaterralthedirt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Press articles generated: 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "krystalpacotekkennetting,saipantribuneuogbeetle,guampdnbeetles"
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Paragraph
+Actual Evidence of Accomplishment
+\end_layout
+
+\begin_layout Standard
+References provided above.
+\end_layout
+
+\begin_layout Paragraph
+Actual Evaluation By
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+National Plant Diagnostic Network (NPDN)
+\end_layout
+
+\begin_layout Paragraph
+Planned Activity
+\end_layout
+
+\begin_layout Standard
+I am the UOG coordinator for the Western Plant Diagnostic Network (WPDN)
+ wich is a regional branch of NPDN.
+ This organization provides financial support for ANR's Plant Diagnostic
+ Laboratory, offers First Detector Training workshops, and organizes identificat
+ion workshops for important pest groups.
+ As coordinator, I am required to organize First Detector Training workshops,
+ attend monthly conference calls, and attend national meetings which are
+ currently held on a 3 year cycle.
+ WPDN publishes newsletters for First Detectors, including the Pacific Pest
+ Detector to which I occasionally contribute .
+\end_layout
+
+\begin_layout Paragraph
+Planned Evidence of Accomplishment
+\end_layout
+
+\begin_layout Standard
+None.
+\end_layout
+
+\begin_layout Paragraph
+Planned Evaluation By
+\end_layout
+
+\begin_layout Paragraph
+Actual Activity
+\end_layout
+
+\begin_layout Enumerate
+Submitted an article to the Pacific Pest Detector Newsletter 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "wpdnppdnewsno22jun2015pdf"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+Trained and certified students as First Detectors via a module in my Fall
+ 2015 AG/BI 345 course.
+\end_layout
+
+\begin_layout Enumerate
+Attended the NPDN National Conference in Washington, D.C., March 8-12, 2016.
+\end_layout
+
+\begin_layout Paragraph
+Actual Evidence of Accomplishment
+\end_layout
+
+\begin_layout Standard
+References provided above.
+\end_layout
+
+\begin_layout Paragraph
+Actual Evaluation By
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+ Guam Invasive Species Advisory Committee (GISAC) 
+\end_layout
+
+\begin_layout Paragraph
+Planned Activity
+\end_layout
+
+\begin_layout Standard
+I am an active, founding member of this informal group of Guam's biologists
+ which meets irregularly about 6 times per year to discuss invasive species
+ and what can be done to keep them out and mitigate the effects of those
+ that do invade the island.
+ I worked with Dr.
+ Russell Campbell and Diane Vice to develop an emergency response plan for
+ invasive species detected on Guam.
+\end_layout
+
+\begin_layout Standard
+A wiki site which I built for for GISAC was quickly adopted by the Western
+ Micronesia Regional Invasive Species Council at 
+\backslash
+url{http://guaminsects.net/gisac/index.php?title=Main_Page}.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Planned Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Planned Evaluation By
+\end_layout
+
+\begin_layout Paragraph
+Actual Activity
+\end_layout
+
+\begin_layout Paragraph
+Actual Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Actual Evaluation By
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+ Public Outreach (Guest lectures, presentations, interviews) 
+\end_layout
+
+\begin_layout Paragraph
+Planned Activity
+\end_layout
+
+\begin_layout Standard
+During the reporting period I was interviewed numerous times by newspaper
+ reporters, radio talk show hosts, and television news reporters.
+ Most, but not all involved questions about the Guam coconut rhinoceros
+ beetle eradication project.
+ I helped to produce several fact sheets and articles for public print media.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Planned Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Planned Evaluation By
+\end_layout
+
+\begin_layout Paragraph
+Actual Activity
+\end_layout
+
+\begin_layout Paragraph
+Actual Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Actual Evaluation By
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+ Public Outreach(Internet) 
+\end_layout
+
+\begin_layout Paragraph
+Planned Activity
+\end_layout
+
+\begin_layout Standard
+During the past decade I published a lot of content on various websites.
+ I have evaluated several current technologies for building a web presence
+ for the Agriculture and Natural Resources Unit and the Drupal content managemen
+t system seems to be a good fit.
+ This allows us to publish information for public access while keeping some
+ documents private for internal use only.
+ My print and online output are discussed in more detail in the Creative/Scholar
+ly Activity section.
+ 
+\end_layout
+
+\begin_layout Standard
+I maintain a website for the the UOG Cooperative Extension Service's Agriculture
+ and Natural Resources Program at 
+\backslash
+url{http://guaminsects.net/ANR}.
+ I frequently post blog articles of public interest to this site (Table
+ 
+\backslash
+ref{blog-table}).
+ I also maintain a website at 
+\backslash
+url{http://guaminsects.myspecies.info} which is intended to facilitate sharing
+ information on insects in Micronesia.
+ I submit blog articles to this website which are more technical and are
+ of interest to biologists.
+ To see a list of my blog post on this site, visit 
+\backslash
+url{http://guaminsects.myspecies.info/blogs/aubrey-moore}.
+ 
+\end_layout
+
+\begin_layout Standard
+Note that these blogs also contain posts containing information which is
+ not intended for the public.
+ These posts are shared with selected groups of clients and colleagues using
+ a password authentication system.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\backslash
+input{blog-table}
+\end_layout
+
+\begin_layout Standard
+
+\backslash
+section{Regional Collaboration }
+\end_layout
+
+\begin_layout Standard
+
+\backslash
+subsection{Regional Invasive Species Council Website} 
+\end_layout
+
+\begin_layout Standard
+I maintain a website for the Western Micronesia Regional Invasive Species
+ Council (RISC) at 
+\backslash
+url{http://www.guaminsects.net/gisac/}.
+ I attend RISC meetings whenever they are held on Guam and I make presentations
+ at these meetings.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Planned Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Planned Evaluation By
+\end_layout
+
+\begin_layout Paragraph
+Actual Activity
+\end_layout
+
+\begin_layout Paragraph
+Actual Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Actual Evaluation By
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+ Regional Collaboration 
+\end_layout
+
+\begin_layout Paragraph
+Planned Activity
+\end_layout
+
+\begin_layout Paragraph
+Planned Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Planned Evaluation By
+\end_layout
+
+\begin_layout Paragraph
+Actual Activity
+\end_layout
+
+\begin_layout Paragraph
+Actual Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Actual Evaluation By
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+ Cycad Scale Biocontrol 
+\end_layout
+
+\begin_layout Paragraph
+Planned Activity
+\end_layout
+
+\begin_layout Paragraph
+Planned Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Planned Evaluation By
+\end_layout
+
+\begin_layout Paragraph
+Actual Activity
+\end_layout
+
+\begin_layout Paragraph
+Actual Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Actual Evaluation By
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+ Eight Spot Butterfly Conservation 
+\end_layout
+
+\begin_layout Paragraph
+Planned Activity
+\end_layout
+
+\begin_layout Paragraph
+Planned Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Planned Evaluation By
+\end_layout
+
+\begin_layout Paragraph
+Actual Activity
+\end_layout
+
+\begin_layout Paragraph
+Actual Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Actual Evaluation By
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Guam Forest Insect Survey 
+\end_layout
+
+\begin_layout Paragraph
+Planned Activity
+\end_layout
+
+\begin_layout Paragraph
+Planned Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Planned Evaluation By
+\end_layout
+
+\begin_layout Paragraph
+Actual Activity
+\end_layout
+
+\begin_layout Enumerate
+McIntire Stennis FY2015 Annual Report 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "mooremcintirestennis"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph
+Actual Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Actual Evaluation By
+\end_layout
+
+\begin_layout Subsection
+Creative / Scholarly / Research (34%)
+\end_layout
+
+\begin_layout Standard
+In addition to meeting the objectives of my current grants (Section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sub:Grant-Proposals-Submitted"
+
+\end_inset
+
+), I plan to work towards finding solutions to two severe pest invasions
+ impacting Guam: coconut rhinoceros which threatens to kill most of Guam's
+ coconut palms and cycad aulacaspis scale which has already killed 90% of
+ Guam's endemic fadang plants.
+ Given that a 2003 US Forest Service survey listed fadang as the most abundant
+ tree (DBH > 5 inches) in Guam's forests and coconut as the second most
+ abundant plant, loss of these trees should be considered as an ecological
+ disaster.
+\end_layout
+
+\begin_layout Subsubsection
+Applied Research Priority 1 - Find an Effective Biocontrol Agent for Coconut
+ Rhinoceros Beetle (CRB)
+\end_layout
+
+\begin_layout Standard
+CRB has been invading Pacific Islands for more than 100 years.
+ If left unchecked, CRB has the potential to kill all of the coconut palms
+ on an island.
+ Tree mortality occurs when adult beetles destroy the growing tip of a palm
+ when they bore into the crown to feed on sap.
+ Immature beetles (grubs), which feed on decaying vegetation, do no damage.
+ In a worst case scenario adult CRB become so abundant that they kill large
+ numbers of palms.
+ These dead palms become breeding sites which generate even more adult beetles
+ which kill even more palms.
+ This positive feedback loop may be initiated by an increased availability
+ of CRB breeding sites in massive amounts of decaying vegetation left behind
+ in the wake of a typhoon.
+\end_layout
+
+\begin_layout Standard
+Prior to the CRB invasion of Guam, this pest was effectively controlled
+ wherever it has established by introduction of oryctes nudivirus (OrNV)
+ as a classical biocontrol agent.
+ OrNV is a selective insect pathogen which only kills rhinoceros beetles
+ (Subfamily Dynastinae).
+ The disease it causes spreads naturally through a population.
+ OrNV is a positively density-dependent biocontrol agent, meaning that it
+ attacks a higher proportion of individuals at higher population densities.
+ After introduction of OrNV into a CRB population, damage to coconut palms
+ drops by as much as 90% and population suppression is sustained.
+\end_layout
+
+\begin_layout Standard
+Attempts to control CRB using OrNV have failed for the first time on Guam.
+ Recent research by Sean Marshall at AgResearch New Zealand and myself indicates
+ that Guam has been invaded by a new biotype, CRB-Guam, which is genetically
+ distinct from other other populations of CRB and is resistant to all 8
+ isolates of OrNV available in cell culture.
+ Thus we have lost the major biocontrol agent for controlling CRB on Pacific
+ islands.
+\end_layout
+
+\begin_layout Standard
+CRB-Guam has so far been detected in Guam, Hawaii, Palau, and the Port Moresby
+ area of Papua New Guinea and this virus-resistant biotype is likely to
+ spread further unless populations are suppressed.
+ This is a regional problem for Pacific islands and trading partners.
+ Unconstrained population outbreaks of CRB-Guam following typhoons will
+ lead to high levels of local damage to palms and increased risk of accidental
+ export of CRB-Guam to other other islands.
+\end_layout
+
+\begin_layout Standard
+Mapping the geographical extent of CRB-Guam and searching for a strain of
+ OrNV which is highly pathogenic for this biotype should be a priority.
+ Although the Guam CRB Project has developed improved management tools for
+ CRB, these are not sufficient to maintain CRB population levels at acceptable
+ levels on an island-wide basis.
+\end_layout
+
+\begin_layout Paragraph
+Planned Activity
+\end_layout
+
+\begin_layout Itemize
+Complete bioassays to recheck pathogenicity of previously tested OrNV samples
+ from AgResearch New Zealand.
+ This task is already included in the work plan for 2 of my grants.
+\end_layout
+
+\begin_layout Itemize
+As per an action item from the WIPM CRB IPM meeting in Honolulu, I will
+ work with Sean Marshall (AgResearch NZ) and Maclean Vaqalo (SPC) on generating
+ a white paper prioritizing applied research needs for CRB management.
+\end_layout
+
+\begin_layout Itemize
+I plan to attend the Pacific Plant Protection Conference as a technical
+ rep for Guam and will make a presentation based on the white paper.
+\end_layout
+
+\begin_layout Itemize
+I will work to set up an international collaborative project with the goal
+ of mapping the CRB-Guam biotype and finding a strain of OrNV wich can be
+ used as an effective biocontrol agent.
+ Potential collaborators are AgResearch NZ, SPC, Philippine Coconut Authority,
+ and USDA.
+ This project will have a foreign exploration component which will collect
+ CRB and virus samples throughout the Asian/Pacific region.
+ Genotyping and virus detection will done by AgResearch NZ.
+ Bioassays in which CRB-Guam beetles will be challenged with virus candidates
+ will be done in my laboratory at UOG.
+\end_layout
+
+\begin_layout Itemize
+I will set up an insect pathology lab and recruit Ian Iriarte as a graduate
+ assistant to run bioassays.
+ I have already applied to US Forest Service for $20K to fund this assistantship.
+\end_layout
+
+\begin_layout Paragraph
+Planned Evidence of Accomplishment
+\end_layout
+
+\begin_layout Standard
+None
+\end_layout
+
+\begin_layout Paragraph
+Planned Evaluation By
+\end_layout
+
+\begin_layout Paragraph
+Actual Activity
+\end_layout
+
+\begin_layout Paragraph
+Actual Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Actual Evaluation By
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Applied Research Priority 2 - Find an Effective Biocontrol Agent for Cycad
+ Aulacaspis Scale
+\end_layout
+
+\begin_layout Standard
+I include the following abstract as background:
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Moore, Aubrey, Thomas Marler, Ross H.
+ Miller, Lee S.
+ Yudin.
+
+\series default
+ 2013.
+ Biological Control of Cycad Scale, 
+\shape italic
+Aulacaspis yasumatsui
+\shape default
+, Attacking Guam's Endemic Cycad, 
+\shape italic
+Cycas micronesica
+\shape default
+.
+ International Symposium on Biological Control, Pucon, Chile.
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+hrule
+\end_layout
+
+\end_inset
+
+ Despite attempted classical biological control with a predator and two
+ parasitoids, greater than 90
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+% of Guam's endemic Cycas micronesica plants have been killed since
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+the island was invaded by the cycad aulacaspis scale (CAS), 
+\shape italic
+Aulacaspis yasumatsui
+\shape default
+ (Hemiptera: Diaspididae) in 2003 (Marler and Lawrence, 2012).
+ Prior to this invasion, 
+\shape italic
+C.
+ micronesica
+\shape default
+ was the most numerous plant in Guam's forests with a stem diameter greater
+ than five inches (Donnegan et al.
+ 2004).
+ The CAS infestation was so severe that by 2006 
+\shape italic
+C.
+ micronesica
+\shape default
+ was listed as endangered by the International Union for Conservation of
+ Nature (Marler et al., 2006).
+ This ecological disaster is still unfolding.
+ Marler and Lawrence (2012) predict extirpation of wild cycads on Guam by
+ 2019 if current trends persist.
+\end_layout
+
+\begin_layout Standard
+CAS, described by Takagi (1977), is considered a minor pest of Cycas within
+ its native Asian range (Anonymous 2006a), presumably as a result of natural
+ biological control organisms.
+ Outside of its native range, where CAS has escaped its natural enemies,
+ it is a very serious pest of Cycas.
+ This scale insect infests all parts of the plant including roots and reproducti
+ve structures.
+ CAS is small enough to invade minute cracks and crevices where it is undetectab
+le during quarantine inspections (Marler and Moore 2010).
+ In the absence of chemical or biological control, infested plants become
+ totally encrusted with multiple layers of CAS within a few months and die
+ within a year (Anonymous 2006a).
+ Accidental introduction of CAS to Florida in the 1990s (Howard et al.
+ 1999) initiated subsequent invasions of the pest throughout several other
+ states within the United States and other countries (Anonymous 2006b).
+ In the Pacific, CAS was first detected in Hawaii in 1998, Taiwan in 2000,
+ Guam in 2003, Rota in 2007, and Palau in 2008.
+ The presumed pathway for this invasive species is movement of scales attached
+ to cycads in the ornamental plant trade, although accidental, long-range
+ movement of scale crawlers is an alternate invasion pathway.
+\end_layout
+
+\begin_layout Standard
+CAS infestation on Guam progressed very rapidly.
+ Initial detection in December, 2003 was on 
+\shape italic
+Cycas revoluta
+\shape default
+ and 
+\shape italic
+C.
+ micronesica
+\shape default
+ growing in floral displays at the entrances to two of Guam's major hotels.
+ Within a year the infestation had spread into a nearby population of wild
+ 
+\shape italic
+C.
+ micronesica
+\shape default
+ and by 2006, the infestation was island-wide and plants had started dying
+ in large numbers.
+\end_layout
+
+\begin_layout Standard
+We observed no pre-existing natural enemies during frequent surveys of infested
+ plants.
+ A predator, 
+\shape italic
+Rhyzobius lophanthae
+\shape default
+ (Coleoptera: Coccinellidae) and a parasitoid, Coccobius fulvus (Hymenoptera:
+ Aphelinidae) were imported for CAS biocontrol during 2004 and 2005 (Moore
+ et al.
+ 2005).
+ A second parasitoid, 
+\shape italic
+Aphytis lignanensis
+\shape default
+ (Hymenoptera: Aphelinidae), was imported in 2012.
+ The predator established rapidly.
+ However, both parasitoids failed to establish in captivity and in the field.
+\end_layout
+
+\begin_layout Standard
+About 100 
+\shape italic
+R.
+ lophanthae
+\shape default
+, were field collected on Maui, Hawaii in November 2004, flown to Guam and
+ reared for one month in quarantine.
+ Field releases on CAS- infested, wild 
+\shape italic
+C.
+ micronesica
+\shape default
+ at Ritidian Point were initiated in February 2005.
+ The beetle established immediately and its initial population explosion
+ peaked in the vicinity of the release site in June 2005, when we counted
+ up to 57 adults per minute in visual inspections of infested wild 
+\shape italic
+C.
+ micronesica
+\shape default
+.
+ We also monitored adult beetles, scale crawlers, and male scales at Ritidian
+ using a transect of yellow sticky cards.
+ The resulting time series data clearly indicate collapse of the CAS population
+ following introduction of the predator followed by establishment of a dynamic
+ equilibrium with scale levels near the trapping detection threshold (Fig.
+ 1).
+ Following establishment at Ritidian, more than 7,450 laboratory reared
+ and field collected 
+\shape italic
+R.
+ lophanthae
+\shape default
+ adults were introduced at 115 sites throughout Guam by collaborators.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+R.
+ lophanthae
+\shape default
+ adults and grubs are voracious predators of CAS.
+ Eggs are laid beneath female scale covers were first instar grubs consume
+ the adult scale.
+ Later instar grubs and adults feed on female and male scales.
+ 
+\shape italic
+R.
+ lophanthae
+\shape default
+ are currently ubiquitous throughout Guam.
+ They are preventing mortality of mature cycads from scale infestation,
+ but residual scales on these trees are preventing vigorous growth and seed
+ production.
+ More importantly, even though 
+\shape italic
+R.
+ lophanthae
+\shape default
+ are ubiquitous within their habitat, all 
+\shape italic
+C.
+ micronesica
+\shape default
+ seedlings become infested with CAS and eventually die (Marler and Lawrence
+ 2012).
+ Thus, with no reproduction occurring, health of the 
+\shape italic
+C.
+ micronesica
+\shape default
+ population is still in decline.
+ We offer two explanations for the partial failure of 
+\shape italic
+R.
+ lophanthae
+\shape default
+ as a biocontrol agent for CAS: 
+\end_layout
+
+\begin_layout Enumerate
+Marler et al.
+ (2012) provide evidence that the 
+\shape italic
+R.
+ lophanthae
+\shape default
+ predation rate decreases near the ground.
+ This at least partially explains why seedlings are more vulnerable to mortality
+ from scale infestation than mature plants.
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\shape italic
+R.
+ lophanthae
+\shape default
+ is much larger than CAS and it is not able to prey on individuals living
+ in small cracks and crevices on the plant.
+ CAS living in refugia provide a steady stream of crawlers which rapidly
+ repopulate external surfaces of the plant during periods of low predation.
+ 
+\end_layout
+
+\begin_layout Standard
+We suggest that there is a urgent need to introduce one or more smaller
+ biocontrol agents which are active near the ground and can follow CAS into
+ its refugia.
+\end_layout
+
+\begin_layout Standard
+Unfortunately, attempts to introduce CAS parasitoids to Guam have failed.
+ A Chinese strain of 
+\shape italic
+Coccobius fulvus
+\shape default
+ from Florida was imported and released several times starting in 2005.
+ On each occasion, the parasitoids died out both in the field and the laboratory
+, probably out-competed by 
+\shape italic
+R.
+ lophanthae
+\shape default
+ (G.V.B.
+ Reddy, personal communication).
+ We are currently attempting to introduce 
+\shape italic
+Aphytis lignanensis
+\shape default
+ (Hymenoptera: Aphelinidae) which coexists with 
+\shape italic
+R.
+ lophanthae
+\shape default
+ as a CAS biocontrol agent in Texas (Flores and Carlson 2009) and Hawaii
+ (B.
+ Kumashiro, personal communication).
+ In 2012, we imported about 100 
+\shape italic
+A.
+ lignanensis
+\shape default
+ adults from Honolulu, Hawaii.
+ These wasps were reared from CAS infesting Cycas revoluta in a home garden.
+ (There are no wild cycads in Hawaii.) We put these wasps in a cage containing
+ CAS-infested 
+\shape italic
+C.
+ micronesica
+\shape default
+ leaves.
+ We had carefully removed all visible 
+\shape italic
+R.
+ lophanthae
+\shape default
+ adults and grubs from these leaves, but there were enough beetle eggs and
+ first instar larvae hiding beneath scale covers to consume all scales before
+ any adult wasps emerged.
+ In our next attempt, we will present imported 
+\shape italic
+A.
+ lignanensis
+\shape default
+ with caged 
+\shape italic
+C.
+ revoluta
+\shape default
+ infested with CAS but without 
+\shape italic
+R.
+ lophanthae
+\shape default
+.
+\end_layout
+
+\begin_layout Standard
+Our immediate objective is to establish a biocontrol agent, in addition
+ to 
+\shape italic
+R.
+ lophanthae
+\shape default
+, which will provide adequately protect 
+\shape italic
+C.
+ micronesica
+\shape default
+ seedlings from CAS-related mortality so that this important endemic plant
+ species can start to recover.
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+hrule
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Since writing the above abstract, there has been a fortuitous (accidental)
+ introduction of a cycad scale parasitoid to Guam.
+ I discovered this parasitoid, which has recently been identified as 
+\shape italic
+Arrhenophagus
+\shape default
+ sp., about a year and a half ago and thought that it would not be of much
+ assistance in controling CAS when I discovered that it attacks only male
+ scale insects.
+ However, I may have been wrong because there is circumstantial evidence
+ that CAS is being controlled by this parasitoid despite its sexual preference.
+\end_layout
+
+\begin_layout Paragraph
+Planned Activity
+\end_layout
+
+\begin_layout Itemize
+Evaluate the impact of 
+\shape italic
+Arrhenophagus
+\shape default
+ sp.
+ on the Guam cycad population 
+\end_layout
+
+\begin_layout Itemize
+Write and submit a peer-reviewed scientific journal article entitled something
+ like 
+\emph on
+Fortuitous introduction of the parasitoid 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+underline{Arrhenophagus}
+\end_layout
+
+\end_inset
+
+ sp.
+ to Guam and its impact on cycas aulacaspis scale, 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+underline{Aulacaspis yasumatsui}
+\end_layout
+
+\end_inset
+
+, infesting endemic cycads, 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+underline{Cycas micronesica}
+\end_layout
+
+\end_inset
+
+
+\emph default
+.
+ 
+\end_layout
+
+\begin_layout Itemize
+If Ron Cave is willing to collect 
+\shape italic
+Coccobius fulvus
+\shape default
+ again and if APHIS approves, attempt a direct field release of this parasitoid.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Planned Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Planned Evaluation By
+\end_layout
+
+\begin_layout Paragraph
+Actual Activity
+\end_layout
+
+\begin_layout Paragraph
+Actual Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Actual Evaluation By
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Referreed Scientific Journal Articles 
+\end_layout
+
+\begin_layout Paragraph
+Planned Activity
+\end_layout
+
+\begin_layout Itemize
+Priority topics for journal article preparation include: 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Discovery of coconut termite on Kosraie 
+\end_layout
+
+\begin_layout Itemize
+Fish gill netting for controling CRB 
+\end_layout
+
+\begin_layout Itemize
+CRB trap improvement: solar-powered LEDs, mark-release-recapture, etc.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Fortuitous introduction of the parasitoid 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+underline{Arrhenophagus}
+\end_layout
+
+\end_inset
+
+ sp.
+ to Guam and its impact on cycad aulacaspis scale, 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+underline{Aulacaspis yasumatsui}
+\end_layout
+
+\end_inset
+
+, infesting endemic cycads, 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+underline{Cycas 				micronesica}
+\end_layout
+
+\end_inset
+
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Itemize
+Scientific notes documenting new island records.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Paragraph
+Planned Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Planned Evaluation By
+\end_layout
+
+\begin_layout Paragraph
+Actual Activity
+\end_layout
+
+\begin_layout Itemize
+My heavy workload does not leave much time for writing journal articles,
+ especially during terms in which I am required to teach.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Actual Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Actual Evaluation By
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Presentations at Professional Meetings 
+\end_layout
+
+\begin_layout Paragraph
+Planned Activity
+\end_layout
+
+\begin_layout Itemize
+I plan to participate in the NPDN national meeting in Washington DC in March
+ 2016.
+ My grant requires attendance at this meeting.
+ 
+\end_layout
+
+\begin_layout Itemize
+I have been invited to make a presentation on CRB in a symposium at the
+ International Congress of Entomology to be held in Florida, September 2016.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Planned Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Planned Evaluation By
+\end_layout
+
+\begin_layout Paragraph
+Actual Activity
+\end_layout
+
+\begin_layout Paragraph
+Actual Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Actual Evaluation By
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Technical Reports Documenting Applied Research in Support of of the Guam
+ Coconut Rhinoceros Beetle Project
+\end_layout
+
+\begin_layout Paragraph
+Planned Activity
+\end_layout
+
+\begin_layout Itemize
+I will continue to add to the collection of tech reports.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Planned Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Planned Evaluation By
+\end_layout
+
+\begin_layout Paragraph
+Actual Activity
+\end_layout
+
+\begin_layout Paragraph
+Actual Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Actual Evaluation By
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+ Guam New Invasive Species Alerts 
+\end_layout
+
+\begin_layout Paragraph
+Planned Activity
+\end_layout
+
+\begin_layout Itemize
+I will continue to add to the collection of Guam New Invasive Species Alerts.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Planned Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Planned Evaluation By
+\end_layout
+
+\begin_layout Paragraph
+Actual Activity
+\end_layout
+
+\begin_layout Paragraph
+Actual Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Actual Evaluation By
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Web Sites Designed and Maintained by Me 
+\end_layout
+
+\begin_layout Standard
+For the past several years, I have been searching for the 
+\begin_inset Quotes eld
+\end_inset
+
+right
+\begin_inset Quotes erd
+\end_inset
+
+ technology for providing on-line extension information.
+ The features I want include: 
+\end_layout
+
+\begin_layout Itemize
+Ease of use, including immediate, on-line editing, so that colleagues and
+ collaborators can create content 
+\end_layout
+
+\begin_layout Itemize
+Ability to display digital images at several resolutions 
+\end_layout
+
+\begin_layout Itemize
+Full text search 
+\end_layout
+
+\begin_layout Itemize
+Methods for handling on-line and offline references 
+\end_layout
+
+\begin_layout Itemize
+Fine grained security which protects client confidentiality and allows for
+ both protected, internal and public information sharing 
+\end_layout
+
+\begin_layout Standard
+My current technology of choice is Drupal, a free, open source contents
+ management system.
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+ANR Web Site
+\series default
+ Home page: 
+\begin_inset Flex Flex:URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://guaminsects.net/anr
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ This Drupal site is intended to facilitate sharing both internal and external
+ information generated by the Agriculture and Natural Resources Unit of
+ the University of Guam Cooperative Extension Service.
+ This site is currently being used heavily by the Guam CRB Eradication Project.
+ I also use this site for documenting ny diagnostics work.
+ I provide a recent example web page documenting discovery of thrips in
+ anthurium flowers.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Insects of Guam Web Site
+\series default
+ Home page: 
+\begin_inset Flex Flex:URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://guaminsects.myspecies.info
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ This Drupal site is being evaluated for sharing information on Micronesian
+ insects.
+ Information will include include specimen level information from the UOG
+ insect collection complete with digital images and literature references.
+ It was built using a template developed by the Scratchpad project 
+\begin_inset Flex Flex:URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://scratchpads.eu/
+\end_layout
+
+\end_inset
+
+ is sponsored by the European Institute of Distributed Taxonomy (EDIT) and
+ the Natural History Museum in London .
+ The ScratchPad project is celebrating the International Year of Biodiversity
+ by highlighting a different Scratchpad taxon every week.
+ I was honored to have one of my pages, describing the indigenous bug, 
+\shape italic
+Leptocoris vicinus
+\shape default
+, highlighted during the week of April 18 to 24, 2010.
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Micronesia Biosecurity Plan Review Web Site
+\series default
+ Home page: 
+\begin_inset Flex Flex:URL
+status collapsed
+
+\begin_layout Plain Layout
+
+MBP.GuamInsects.net
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ This is a secure, private Drupal site developed to facilitate sharing informati
+on among those reviewing the Micronesia Biosecurity Plan.
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Moodle Site for my AG 109 Insect World Course
+\series default
+ Home page: 
+\begin_inset Flex Flex:URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://campus.uogdistance.com/course/view.php?id=286
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ This site was my first experence with Moodle, a content management system
+ designed for teachers.
+ I originally built it to provide on-line resources for my students, but
+ later decided to open a few wikis to promote collaboration on laboratory
+ exercises.
+ I also kept track of grades using Moodle.
+ Examples from this site include the course resource page (Evidence 2.5.3a;
+ available on-line at 
+\begin_inset Flex Flex:URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://campus.uogdistance.com/mod/resource/view.php?id=7349
+\end_layout
+
+\end_inset
+
+) and a small PHP program I wrote to facilitate printing pinned insect specimen
+ labels (Evidence 2.5.3b; available on-line at 
+\begin_inset Flex Flex:URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://tinyurl.com/insect-labels
+\end_layout
+
+\end_inset
+
+).
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Knowledgebase Wiki for the UOG Cooperative Extension
+\series default
+ Home page: 
+\begin_inset Flex Flex:URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.guaminsects.net/uogces/kbwiki/index.php
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+ This was my first attempt at building an extension website to facilitate
+ collaborative content creation.
+ Digital copies of all of ANR's pest fact sheets can be found on this site.
+ There is also a list of insect pests found on all major crops grown in
+ Micronesia.
+ I stopped maintaining this site in May, 2009 because the ANR site built
+ with Drupal has more of the features I need.
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Western Micronesia Regional Invasive Species Council Wiki
+\series default
+ Home page: 
+\begin_inset Flex Flex:URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.guaminsects.net/gisac/index.php
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ Originally built for the Guam Invasive Species Advisory Council, this site
+ was quickly adopted fo sharing regional information on invasive species
+ by the Western Micronesia Regional Invasive Species Council.
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Guam Insects Blog Site
+\series default
+ Home page:
+\begin_inset Flex Flex:URL
+status collapsed
+
+\begin_layout Plain Layout
+
+ http://blog.guaminsects.net/
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+ I ran into recurring technical problems with this site which uses the WordPress
+ content management system and have more or less abandonded development
+ and maintenance.
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Life Desk Site for Micronesian Insects
+\series default
+ Home page: 
+\begin_inset Flex Flex:URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://micronesianinsects.lifedesks.org/
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ This site uses a Drupal template being developed by the Encyclopedia of
+ Life Project.
+ I evaluate it for sharing information on Micronesian insects, but decided
+ that the Scratchpad template (number 2, above) had a better feature set
+ for what I wanted to do.
+\end_layout
+
+\begin_layout Paragraph
+Planned Activity
+\end_layout
+
+\begin_layout Itemize
+Some of my web sites are down following a recent malicious hack attack.
+ I will fix these.
+ 
+\end_layout
+
+\begin_layout Itemize
+When I am given adequate access to the the official UOG Extension web site
+ I will start using it and I will start migrating content from my older
+ sites.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Planned Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Planned Evaluation By
+\end_layout
+
+\begin_layout Paragraph
+Actual Activity
+\end_layout
+
+\begin_layout Paragraph
+Actual Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Actual Evaluation By
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+University and Community Services (15%)
+\end_layout
+
+\begin_layout Subsubsection
+Instruction 
+\end_layout
+
+\begin_layout Standard
+In addition to my job as an extension entomologist, I am required to teach
+ a four credit course every year.
+\end_layout
+
+\begin_layout Paragraph
+Planned Activity
+\end_layout
+
+\begin_layout Itemize
+I will teach General Entomology AG/BIO-345 during the Fall 2015 term.
+ This is a 4 credit course consisting of 2 lectures per week plus a 3 hour
+ lab session.
+ 
+\end_layout
+
+\begin_layout Itemize
+I plan to have Ian Iriarte as my first masters student in the EV program.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Planned Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Planned Evaluation By
+\end_layout
+
+\begin_layout Paragraph
+Actual Activity
+\end_layout
+
+\begin_layout Paragraph
+Actual Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Actual Evaluation By
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+ Service as a Reviewer 
+\end_layout
+
+\begin_layout Paragraph
+Planned Activity
+\end_layout
+
+\begin_layout Paragraph
+Planned Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Planned Evaluation By
+\end_layout
+
+\begin_layout Paragraph
+Actual Activity
+\end_layout
+
+\begin_layout Standard
+papers reviewed 
+\end_layout
+
+\begin_layout Standard
+outside examiner
+\end_layout
+
+\begin_layout Paragraph
+Actual Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Actual Evaluation By
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+ University Technical Advisory Committee 
+\end_layout
+
+\begin_layout Paragraph
+Planned Activity
+\end_layout
+
+\begin_layout Standard
+I will continue to serve on UTAC as the representative for the College of
+ Natural and Applied Sciences.
+\end_layout
+
+\begin_layout Paragraph
+Planned Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Planned Evaluation By
+\end_layout
+
+\begin_layout Paragraph
+Actual Activity
+\end_layout
+
+\begin_layout Paragraph
+Actual Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Actual Evaluation By
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Faculty Facilities Committee for the Agriculture and Life Sciences Building
+\end_layout
+
+\begin_layout Paragraph
+Planned Activity
+\end_layout
+
+\begin_layout Standard
+None.
+ This is an unplanned activity.
+\end_layout
+
+\begin_layout Paragraph
+Planned Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Planned Evaluation By
+\end_layout
+
+\begin_layout Paragraph
+Actual Activity
+\end_layout
+
+\begin_layout Paragraph
+Actual Evidence of Accomplishment
+\end_layout
+
+\begin_layout Paragraph
+Actual Evaluation By
+\end_layout
+
+\begin_layout Section
+Publications and Grants
+\end_layout
+
+\begin_layout Subsection
+Publications and Other Media Produced During The Review Period
+\end_layout
+
+\begin_layout Subsubsection
+Peer Reviewed Journal Articles
+\end_layout
+
+\begin_layout Enumerate
+Moore et al.
+ 2015.
+ Coconut rhinoceros beetles ( Coleoptera : Scarabaeidae ) develop in arboreal
+ breeding sites in Guam.
+ Florida Entomologist 98(3) 1012-1014.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "moore2015coconut"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Moore et al.
+ 2016.
+ Movement of packaged soil Products as a dispersal pathway for coconut rhinocero
+s beetle, Oryctes rhinoceros (Coleoptera:Scarabaeidae) and other invasive
+ species.
+ Proceedings of the Hawaiian Entomological Society [In press].
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "moore2016movement"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Moore et al.
+ 2016.
+ Judas beetles: Discovering cryptic breeding sites by radio-tracking coconut
+ rhinoceros beetles, 
+\emph on
+Oryctes rhinoceros
+\emph default
+ (Coleoptera: Scarabaeidae).
+ Journal of Environmental Entomology [Submitted] 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "moore2016judasbeetles"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Fact Sheets
+\end_layout
+
+\begin_layout Enumerate
+Vaqalo, M., Marshall, S., Jackson, T., & Moore, A.
+ (2015).
+ An emerging biotype of coconut rhinoceros beetle discovered in the Pacific
+ (Pest Alert No.
+ 51) (p.
+ 2).
+ Secretariat of the Pacific Community.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "vaqalo2015pestalert"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Moore, A.
+ (2015).
+ The new Pacific pests and pathogens app.
+ In Pacific Pest Detector News 23.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "wpdnppdnewsno22jun2015pdf"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Presentations
+\end_layout
+
+\begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Grant-Proposals-Submitted"
+
+\end_inset
+
+Grant Proposals Submitted During the Review Period
+\end_layout
+
+\begin_layout Enumerate
+USDA-Aphis Biocontrol Program: 
+\emph on
+Oryctes nudivirus for biocontrol of the Guam biotype of the coconut rhinoceros
+ beetle
+\emph default
+.; $20,000 requested; Not funded; Proposal
+\begin_inset CommandInset citation
+LatexCommand cite
+key "moore2015oryctes"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+2015-16 USDA Farm Bill: 
+\emph on
+Oryctes nudivirus for biocontrol of the Guam biotype of the coconut rhinoceros
+ beetle
+\emph default
+; $120,000 requested; $100,000 awarded; Work plan 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "moore2016farmbill"
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Enumerate
+US Forest Service: 
+\emph on
+Detector Beetles: Radio-Tracking Coconut Rhinoceros Beetles (CRB) to Discover
+ Breeding Sites and CRB Biocontrol; 
+\emph default
+$40,000 requested; $40,000 awarded; Proposal 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "moore2016usforest"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+McIntire-Stennis
+\end_layout
+
+\begin_layout Enumerate
+Dean's 2016 High-impact Project Pool Competition: 
+\emph on
+Coconut rhino beetle as a transmission vector for Tinangaja disease.; 
+\emph default
+$39,911 requested; ???? awarded; Proposal 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "blas2016deans2016"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+US Fish and Wildlife Service FY2016 (funds passed through GDOA-DAWR via
+ an MOU): 
+\emph on
+Establishment of Captive and Establishment of Captive and Managed Populations
+ of Mariana Eight-spot Butterfly
+\emph default
+;$18,000 requested; $18,000 awarded; Work Plan 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "moore2016fwsproposal"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Grants Awarded During the Review Period
+\end_layout
+
+\begin_layout Standard
+Indicated above.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "cfes2015"
+options "bibtotoc,IEEEtranM"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
