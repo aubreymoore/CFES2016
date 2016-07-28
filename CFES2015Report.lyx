@@ -102,7 +102,7 @@ University of Guam
 \begin_inset Newline newline
 \end_inset
 
-June 15, 2015 - June 15, 2016
+June 15, 2015 - June 14, 2016
 \end_layout
 
 \begin_layout Author
@@ -114,6 +114,23 @@ Aubrey Moore
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+This document was written using LyX 2.0.8.
+ Zotero and LyZ were used for handling references.
+ Relevent files are stored in a GitHub repository at 
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://github.com/aubreymoore/CFES2016
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Standard
