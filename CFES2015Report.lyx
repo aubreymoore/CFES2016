@@ -2985,10 +2985,6 @@ Actual Evaluation By
 \end_layout
 
 \begin_layout Standard
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Newpage newpage
 \end_inset
 
@@ -3012,20 +3008,24 @@ In addition to my job as an extension entomologist, I am required to teach
 Planned Activity
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 I will teach General Entomology AG/BIO-345 during the Fall 2015 term.
  This is a 4 credit course consisting of 2 lectures per week plus a 3 hour
  lab session.
  
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 I plan to have Ian Iriarte as my first masters student in the EV program.
  
 \end_layout
 
 \begin_layout Paragraph
 Planned Evidence of Accomplishment
+\end_layout
+
+\begin_layout Standard
+None.
 \end_layout
 
 \begin_layout Paragraph
@@ -3036,12 +3036,46 @@ Planned Evaluation By
 Actual Activity
 \end_layout
 
-\begin_layout Standard
-website
+\begin_layout Enumerate
+I taught General Entomology AG/BIO-345 during the Fall 2015 term.
+\end_layout
+
+\begin_layout Enumerate
+I reccruited Ian Iriarte as my first masters student in the EV program and
+ secured support for his first year from my FY2016 Farm Bill grant (CRB-G
+ Biocontrol).
 \end_layout
 
 \begin_layout Paragraph
 Actual Evidence of Accomplishment
+\end_layout
+
+\begin_layout Enumerate
+Syllabus for General Entomology AG/BIO-345.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "aubreymooresyllabus"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Web site for General Entomology AG/BIO-345 (static web site built using
+ Pelican) 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "aubreymooreagbi345"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+Student evaluation for General Entomology AG/BIO-345.
 \end_layout
 
 \begin_layout Paragraph
@@ -3151,7 +3185,7 @@ Actual Evaluation By
 \end_layout
 
 \begin_layout Subsubsection
- University Technical Advisory Committee 
+University Technical Advisory Committee 
 \end_layout
 
 \begin_layout Paragraph
@@ -3175,6 +3209,11 @@ Planned Evaluation By
 Actual Activity
 \end_layout
 
+\begin_layout Standard
+I continue to serve on UTAC as the representative for the College of Natural
+ and Applied Sciences.
+\end_layout
+
 \begin_layout Paragraph
 Actual Evidence of Accomplishment
 \end_layout
@@ -3191,7 +3230,7 @@ Actual Evaluation By
 \end_layout
 
 \begin_layout Subsubsection
-Faculty Facilities Committee for the Agriculture and Life Sciences Building
+Faculty Building Facilities Committee for the ALS
 \end_layout
 
 \begin_layout Paragraph
@@ -3215,12 +3254,62 @@ Planned Evaluation By
 Actual Activity
 \end_layout
 
+\begin_layout Enumerate
+I became chair of this committee when Dr.
+ Laura Biggs left during 2015.
+\end_layout
+
+\begin_layout Enumerate
+Documented air conditioning problems, especially exessively high humidity
+ (>60% RH) and met with Dr.
+ Rachel Leon Guerrero and Jesse Rosario to discuss possible solutions
+\end_layout
+
+\begin_layout Enumerate
+Procured a large screen HDTV for the teaching lab (ALS 124) (Thanks to Jim
+ Hollyer for help with this)
+\end_layout
+
+\begin_layout Enumerate
+Installed Internet cable to provide sufficient bandwidth for streaming video
+ (Thanks to Rudy Magallanes for help with this)
+\end_layout
+
+\begin_layout Enumerate
+Organized clean up of the teaching lab following the Fall 2015 semester.
+\end_layout
+
+\begin_layout Enumerate
+Compiled recommendations for improving the ALS 124 as a science teaching
+ environment.
+\end_layout
+
 \begin_layout Paragraph
 Actual Evidence of Accomplishment
 \end_layout
 
+\begin_layout Enumerate
+Recommendations for improving the ALS 124 as a science teaching environment
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "aubreymoorefaculty"
+
+\end_inset
+
+ and obtained a quote for installation of audiovisual equipment.
+ 
+\end_layout
+
 \begin_layout Paragraph
 Actual Evaluation By
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -3238,7 +3327,7 @@ Peer Reviewed Journal Articles
 \begin_layout Enumerate
 Moore et al.
  2015.
- Coconut rhinoceros beetles ( Coleoptera : Scarabaeidae ) develop in arboreal
+ Coconut rhinoceros beetles (Coleoptera : Scarabaeidae) develop in arboreal
  breeding sites in Guam.
  Florida Entomologist 98(3) 1012-1014.
  
