@@ -1312,21 +1312,12 @@ I have formed two collaborative research groups to do applied research aimed
 \begin_layout Standard
 In December 2013, an infestation of CRB was detected on Hickam Air Force
  Base on Oahu.
- Roland Quitugua and myself were recruitedlthough I have amm as subject
- matter experts and spent a week in Honolulu advising an incident command
- system (ICS) team set up by APHIS.
+ Roland Quitugua and myself were recruited as subject matter experts and
+ spent a week in Honolulu advising an incident command system (ICS) team
+ set up by APHIS.
  Later, we were both added to a national technical working group (TWG) for
  CRB.
- I built and maintain an online, full-text bibliographic for use by the
- TWG at 
-\backslash
-url{http://guaminsects.myspecies.info/CRB_biblio}.
-\end_layout
-
-\begin_layout Standard
-Frequent requests for scientific/technical information from the ICS, TWG
- and Hawaii Department of Agriculture (several queries per week) has significant
-ly increased my workload over the past several months.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -1414,7 +1405,36 @@ key "moore2016judasbeetles"
 \end_layout
 
 \begin_layout Enumerate
-Press release 
+Press release and generated articles.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "radiorhinos"
+
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "radiorhinos2"
+
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "staffrhinobeetle"
+
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "varietyrhinobeetle"
+
+\end_inset
+
+
 \end_layout
 
 \end_deeper
@@ -1451,6 +1471,36 @@ Fact sheet on CRB-G prepared for SPC
 \begin_inset CommandInset citation
 LatexCommand cite
 key "vaqalo2015pestalert"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Made a presentation on CRB-G and participated in discussions on a coordinated
+ response to CRB-G at the Pacific Plant Protection Meeting in Fiji, Sepember
+ 2015.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "pacificcommunitypppo2015"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+In June 2016, I attended a meeting on CRB Biocontrol in Fiji.
+ I made a presntation on CRB-G and discussed a coordinated response to CRB-G
+ with participants from SPC, PNG, Solomon Islands, and Samoa.
+ I compiled an online repository of materials from this meeting on my Open
+ Science Framework site.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "meeting"
 
 \end_inset
 
@@ -1772,23 +1822,53 @@ ly Activity section.
 \end_layout
 
 \begin_layout Standard
-I maintain a website for the the UOG Cooperative Extension Service's Agriculture
- and Natural Resources Program at 
+Previous to establishment of the CNAS-RE WordPress site, I maintained a
+ website for the the UOG Cooperative Extension Service's Agriculture and
+ Natural Resources Program at 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
 \backslash
-url{http://guaminsects.net/ANR}.
- I frequently post blog articles of public interest to this site (Table
- 
-\backslash
-ref{blog-table}).
+url{http://guaminsects.net/ANR}
+\end_layout
+
+\end_inset
+
+.
+ I frequently posted blog articles of public interest to this site.
  I also maintain a website at 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
 \backslash
-url{http://guaminsects.myspecies.info} which is intended to facilitate sharing
- information on insects in Micronesia.
+url{http://guaminsects.myspecies.info}
+\end_layout
+
+\end_inset
+
+ which is intended to facilitate sharing information on insects in Micronesia.
  I submit blog articles to this website which are more technical and are
  of interest to biologists.
  To see a list of my blog post on this site, visit 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
 \backslash
-url{http://guaminsects.myspecies.info/blogs/aubrey-moore}.
+url{http://guaminsects.myspecies.info/blogs/aubrey-moore}
+\end_layout
+
+\end_inset
+
+.
  
 \end_layout
 
@@ -1801,28 +1881,21 @@ Note that these blogs also contain posts containing information which is
 \end_layout
 
 \begin_layout Standard
-
-\backslash
-input{blog-table}
-\end_layout
-
-\begin_layout Standard
-
-\backslash
-section{Regional Collaboration }
-\end_layout
-
-\begin_layout Standard
-
-\backslash
-subsection{Regional Invasive Species Council Website} 
-\end_layout
-
-\begin_layout Standard
 I maintain a website for the Western Micronesia Regional Invasive Species
  Council (RISC) at 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
 \backslash
-url{http://www.guaminsects.net/gisac/}.
+url{http://www.guaminsects.net/gisac/}
+\end_layout
+
+\end_inset
+
+.
  I attend RISC meetings whenever they are held on Guam and I make presentations
  at these meetings.
  
@@ -1832,8 +1905,22 @@ url{http://www.guaminsects.net/gisac/}.
 Planned Activity
 \end_layout
 
+\begin_layout Enumerate
+Assist in migrating the CNAS-RE WordPress test site to a more permanent
+ home.
+\end_layout
+
+\begin_layout Enumerate
+Phase out use of the ANR Drupal site and move content to the new CNAS-RE
+ WordPress Site.
+\end_layout
+
 \begin_layout Paragraph
 Planned Evidence of Accomplishment
+\end_layout
+
+\begin_layout Standard
+None.
 \end_layout
 
 \begin_layout Paragraph
@@ -1844,8 +1931,43 @@ Planned Evaluation By
 Actual Activity
 \end_layout
 
+\begin_layout Enumerate
+The CNAS-RE test site 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://guaminsects.net/wp
+\end_layout
+
+\end_inset
+
+ was moved to its more permanent home 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://cnas-re.uog.edu
+\end_layout
+
+\end_inset
+
+ during August 2015.
+\end_layout
+
+\begin_layout Enumerate
+Some content, bibliographic information for instance, was imported into
+ the CNAS-RE site from ANR site.
+\end_layout
+
 \begin_layout Paragraph
 Actual Evidence of Accomplishment
+\end_layout
+
+\begin_layout Standard
+See references above.
 \end_layout
 
 \begin_layout Paragraph
@@ -1861,6 +1983,86 @@ Actual Evaluation By
 
 \begin_layout Subsection
 Creative / Scholarly / Research (34%)
+\end_layout
+
+\begin_layout Standard
+I am an insect ecologist with broad interests in biology and technology.
+ In my current position of extension entomologist, I apply my knowledge
+ and skills to finding real solutions to real problems caused by insects
+ on Guam.
+ In addition to providing extension services, I currently run five applied
+ research programs:
+\end_layout
+
+\begin_layout Enumerate
+Coconut rhinoceros beetle (CRB) biocontrol.
+\end_layout
+
+\begin_layout Enumerate
+Cycad Aulacaspis scale (CAS) biocontrol.
+\end_layout
+
+\begin_layout Enumerate
+Guam Insect Pest Survey.
+\end_layout
+
+\begin_layout Enumerate
+Biodiversity informatics.
+\end_layout
+
+\begin_layout Standard
+I spend significant time and effort keeping up-to-date with modern technology.
+ I am currently using and learning about the following technologies:
+\end_layout
+
+\begin_layout Enumerate
+Python programming; IPython Notebook; Django web framework; OpenCV digital
+ image analysis software
+\end_layout
+
+\begin_layout Enumerate
+Quantum GIS
+\end_layout
+
+\begin_layout Enumerate
+Open Science Framework 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "moore2016crbgmanagement"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+iNaturalist 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "aubreymooreinsects"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Git, GitHub 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "aubreymooreaubreymoors"
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Enumerate
+LaTex, LyX, Zotero, OverLeaf
+\end_layout
+
+\begin_layout Enumerate
+Raspberry Pi
 \end_layout
 
 \begin_layout Standard
@@ -1882,7 +2084,20 @@ reference "sub:Grant-Proposals-Submitted"
 \end_layout
 
 \begin_layout Subsubsection
-Coconut Rhinoceros Beetle Biocontrol
+Coconut Rhinoceros Beetle (CRB) Biocontrol
+\end_layout
+
+\begin_layout Standard
+The 2002, the coconut palm was the second most abundent tree (DBH>5'') in
+ Guam's forests 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "j.a.donnegonguamsforest"
+
+\end_inset
+
+.
+ An uncontrolled outbreak of CRB is rapidly killing these trees.
 \end_layout
 
 \begin_layout Standard
@@ -1946,24 +2161,24 @@ Mapping the geographical extent of CRB-Guam and searching for a strain of
 Planned Activity
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 Complete bioassays to recheck pathogenicity of previously tested OrNV samples
  from AgResearch New Zealand.
  This task is already included in the work plan for 2 of my grants.
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 As per an action item from the WIPM CRB IPM meeting in Honolulu, I will
  work with Sean Marshall (AgResearch NZ) and Maclean Vaqalo (SPC) on generating
  a white paper prioritizing applied research needs for CRB management.
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 I plan to attend the Pacific Plant Protection Conference as a technical
  rep for Guam and will make a presentation based on the white paper.
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 I will work to set up an international collaborative project with the goal
  of mapping the CRB-Guam biotype and finding a strain of OrNV wich can be
  used as an effective biocontrol agent.
@@ -1976,7 +2191,7 @@ I will work to set up an international collaborative project with the goal
  will be done in my laboratory at UOG.
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 I will set up an insect pathology lab and recruit Ian Iriarte as a graduate
  assistant to run bioassays.
  I have already applied to US Forest Service for $20K to fund this assistantship.
@@ -1996,6 +2211,47 @@ Planned Evaluation By
 
 \begin_layout Paragraph
 Actual Activity
+\end_layout
+
+\begin_layout Enumerate
+We have gone through 4 cycles of the witch's brew bioassays and the mortality
+ increases for each iteration.
+ Gut samples from beetles are being sent to AgResearch NZ to test for OrNV.
+\end_layout
+
+\begin_layout Enumerate
+White paper was written 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "marshall2016draftwhitepaper"
+
+\end_inset
+
+ and used as a source for the SPC fact sheet on CRB .
+\end_layout
+
+\begin_layout Enumerate
+I plan to attend the Pacific Plant Protection Conference as a technical
+ rep for Guam and will make a presentation based on the white paper.
+\end_layout
+
+\begin_layout Enumerate
+I will work to set up an international collaborative project with the goal
+ of mapping the CRB-Guam biotype and finding a strain of OrNV wich can be
+ used as an effective biocontrol agent.
+ Potential collaborators are AgResearch NZ, SPC, Philippine Coconut Authority,
+ and USDA.
+ This project will have a foreign exploration component which will collect
+ CRB and virus samples throughout the Asian/Pacific region.
+ Genotyping and virus detection will done by AgResearch NZ.
+ Bioassays in which CRB-Guam beetles will be challenged with virus candidates
+ will be done in my laboratory at UOG.
+\end_layout
+
+\begin_layout Enumerate
+I will set up an insect pathology lab and recruit Ian Iriarte as a graduate
+ assistant to run bioassays.
+ I have already applied to US Forest Service for $20K to fund this assistantship.
 \end_layout
 
 \begin_layout Paragraph
@@ -2018,7 +2274,23 @@ Cycad Aulacaspis Scale Biocontrol
 \end_layout
 
 \begin_layout Standard
-I include the following abstract as background:
+The 2002, fadang, 
+\emph on
+Cycas micronesica
+\emph default
+, the most abundent tree (DBH>5'') in Guam's forests 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "j.a.donnegonguamsforest"
+
+\end_inset
+
+.
+ An uncontrolled outbreak of CAS has killed about 90% of these trees.
+\end_layout
+
+\begin_layout Standard
+I include the following abstract as background to the problem:
 \end_layout
 
 \begin_layout Standard
