@@ -791,7 +791,7 @@ As an official USDA-APHIS cooperator, I am obligated to identify insects
 Planned Activity
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Identify insects and make control recommendations when requested.
 \end_layout
 
@@ -799,8 +799,8 @@ Identify insects and make control recommendations when requested.
 Planned Evidence of Accomplishment
 \end_layout
 
-\begin_layout Standard
-None 
+\begin_layout Enumerate
+iNaturalist posts documenting insect identifications
 \end_layout
 
 \begin_layout Paragraph
@@ -927,7 +927,7 @@ Although I have been able to generate about a dozen invasive species alerts
 Planned Activity
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Continue adding to and maintaining the Guam Invasive Species Alerts fact
  sheet series.
 \end_layout
@@ -936,8 +936,8 @@ Continue adding to and maintaining the Guam Invasive Species Alerts fact
 Planned Evidence of Accomplishment
 \end_layout
 
-\begin_layout Standard
-None.
+\begin_layout Enumerate
+Guam Invasive Species Alerts fact sheets
 \end_layout
 
 \begin_layout Paragraph
@@ -1098,8 +1098,8 @@ Continue evaluation of Specify as an online database for the UOG Insect
 Planned Evidence of Accomplishment
 \end_layout
 
-\begin_layout Standard
-none
+\begin_layout Enumerate
+Specimen records.
 \end_layout
 
 \begin_layout Paragraph
@@ -1218,7 +1218,7 @@ Early in 2015, the directors of the Western IPM Center at UC Davis asked
 Planned Activity
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Provide scientific/technical support to the Guam Coconut Rhinoceros Beetle
  Project.
  My focus will be on CRB-G biocontrol and monitoring health of coconut palms
@@ -1238,8 +1238,8 @@ name "par:Provide-scientific/technical-sup"
 Planned Evidence of Accomplishment
 \end_layout
 
-\begin_layout Standard
-None.
+\begin_layout Enumerate
+Technical reports, refereed journal articles
 \end_layout
 
 \begin_layout Paragraph
@@ -1386,12 +1386,16 @@ Public Outreach (Guest lectures, presentations, interviews)
 Planned Activity
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Provide accurate scientific and technical information to the public as required.
 \end_layout
 
 \begin_layout Paragraph
 Planned Evidence of Accomplishment
+\end_layout
+
+\begin_layout Enumerate
+Newspaper articles, radio and television interviews
 \end_layout
 
 \begin_layout Paragraph
@@ -1525,10 +1529,16 @@ Phase out use of the ANR Drupal site and move content to the new CNAS-RE
 \begin_layout Enumerate
 Provide an online database of insect crop pests in Micronesia with links
  to images and fact sheets.
+ This activity overlaps with plans to create a Guam Biodiversity Inventory
+ (see section in Create/Scholarly/Research).
 \end_layout
 
 \begin_layout Paragraph
 Planned Evidence of Accomplishment
+\end_layout
+
+\begin_layout Enumerate
+Blog posts.
 \end_layout
 
 \begin_layout Paragraph
@@ -1771,7 +1781,7 @@ I plan to submit a FY2017 Farm Bill suggestion to continue my work on establish
 Planned Evidence of Accomplishment
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Technical reports,scientific journal articles, presentations.
 \end_layout
 
@@ -1851,7 +1861,7 @@ Write and submit a peer-reviewed scientific journal article on CAS biocontrol.
 Planned Evidence of Accomplishment
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Peer reviewed article on CAS biocontrol.
 \end_layout
 
@@ -2005,7 +2015,7 @@ Release 60 cage-reared eight-spot butterflies and larvae on protected host
 Planned Evidence of Accomplishment
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Technical reports.
 \end_layout
 
@@ -2074,7 +2084,7 @@ Populate CLP with the flora and fauna of Guam from the scientific literature.
 Planned Evidence of Accomplishment
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 An online database which can be queried to return useful information such
  as a list of all caterpillars feeding on cabbage on Guam with links to
  images and fact sheets for these species.
@@ -2160,7 +2170,7 @@ University Technical Advisory Committee
 Planned Activity
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 I will continue to serve on UTAC as the representative for the College of
  Natural and Applied Sciences.
 \end_layout
@@ -2200,7 +2210,7 @@ Faculty Building Facilities Committee for the ALS
 Planned Activity
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 I will continue to serve as chair of the Faculty Building Facilities Committee
  for the ALS
 \end_layout
