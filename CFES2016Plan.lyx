@@ -1729,18 +1729,14 @@ Planned Activity
 \begin_layout Enumerate
 Complete bioassays to recheck pathogenicity of previously tested OrNV samples
  from AgResearch New Zealand.
- This task is already included in the work plan for 2 of my grants.
+ 
 \end_layout
 
 \begin_layout Enumerate
-As per an action item from the WIPM CRB IPM meeting in Honolulu, I will
- work with Sean Marshall (AgResearch NZ) and Maclean Vaqalo (SPC) on generating
- a white paper prioritizing applied research needs for CRB management.
-\end_layout
-
-\begin_layout Enumerate
-I plan to attend the Pacific Plant Protection Conference as a technical
- rep for Guam and will make a presentation based on the white paper.
+Participate in the International Congress of Entomology in Orlando, Florida
+ in Septmber 2016.
+ I have been invited to give an oral presentation on CRB-G at a symposium
+ on scarab beetles.
 \end_layout
 
 \begin_layout Enumerate
@@ -1757,9 +1753,18 @@ I will work to set up an international collaborative project with the goal
 \end_layout
 
 \begin_layout Enumerate
-I will set up an insect pathology lab and recruit Ian Iriarte as a graduate
- assistant to run bioassays.
- I have already applied to US Forest Service for $20K to fund this assistantship.
+As per my approved FY2016 Farm Bill grant, I plan to visit Palau and Negros
+ Island, Philippines with Dr.
+ Sean Marshall, AgResearch New Zealand and my graduate student, Ian Iriart
+ in early 2017.
+ CRB-G has been detected atboth of these locations.
+\end_layout
+
+\begin_layout Enumerate
+I plan to submit a FY2017 Farm Bill suggestion to continue my work on establish
+ biocontrol of CRB-G toprevent further coconut palm mortality on Guam.
+ This suggestion will also request support for establishment of a semiannual
+ coconut palm health survey.
 \end_layout
 
 \begin_layout Paragraph
@@ -1767,7 +1772,7 @@ Planned Evidence of Accomplishment
 \end_layout
 
 \begin_layout Standard
-None
+Technical reports,scientific journal articles, presentations.
 \end_layout
 
 \begin_layout Paragraph
@@ -1778,61 +1783,8 @@ Planned Evaluation By
 Actual Activity
 \end_layout
 
-\begin_layout Enumerate
-We have gone through 4 cycles of the witch's brew bioassays and the mortality
- increases for each iteration.
- Gut samples from beetles are being sent to AgResearch NZ to test for OrNV.
-\end_layout
-
-\begin_layout Enumerate
-White paper was written 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "marshall2016draftwhitepaper"
-
-\end_inset
-
- and used as a source for the SPC fact sheet on CRB .
-\end_layout
-
-\begin_layout Enumerate
-Made a presentation on CRB-G and participated in discussions on a coordinated
- response to CRB-G at the Pacific Plant Protection Meeting in Fiji, Sepember
- 2015.
- 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "pacificcommunitypppo2015"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-I continue working to set up an international collaborative project with
- the goal of mapping the CRB-Guam biotype and finding a strain of OrNV wich
- can be used as an effective biocontrol agent.
- Potential collaborators are AgResearch NZ, SPC, Philippine Coconut Authority,
- and USDA.
- This project will have a foreign exploration component which will collect
- CRB and virus samples throughout the Asian/Pacific region.
- Genotyping and virus detection will done by AgResearch NZ.
- Bioassays in which CRB-Guam beetles will be challenged with virus candidates
- will be done in my laboratory at UOG.
-\end_layout
-
-\begin_layout Enumerate
-I recruited Ian Iriarte as a graduate assistant to run bioassays and have
- secured one year of support from my FY16 Farm Bill grant.
-\end_layout
-
 \begin_layout Paragraph
 Actual Evidence of Accomplishment
-\end_layout
-
-\begin_layout Standard
-See references above.
 \end_layout
 
 \begin_layout Paragraph
@@ -1851,11 +1803,12 @@ Cycad Aulacaspis Scale Biocontrol
 \end_layout
 
 \begin_layout Standard
-The 2002, fadang, 
+In 2002, the endemic cycad, 
 \emph on
 Cycas micronesica
 \emph default
-, the most abundent tree (DBH>5'') in Guam's forests 
+, known locally as fadang, was the most abundent tree (DBH>5'') in Guam's
+ forests 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "j.a.donnegonguamsforest"
@@ -1863,382 +1816,25 @@ key "j.a.donnegonguamsforest"
 \end_inset
 
 .
- An uncontrolled outbreak of CAS has killed about 90% of these trees.
+ An uncontrolled outbreak of CAS and recently arrived other invasive species
+ has killed about 90% of these trees.
+ Several attempts at establishing effective biocontrol have failed.
  Note that this project is currently unfunded.
-\end_layout
-
-\begin_layout Standard
-I include the following abstract as background to the problem:
-\end_layout
-
-\begin_layout Standard
-
-\series bold
-Moore, Aubrey, Thomas Marler, Ross H.
- Miller, Lee S.
- Yudin.
-
-\series default
- 2013.
- Biological Control of Cycad Scale, 
-\shape italic
-Aulacaspis yasumatsui
-\shape default
-, Attacking Guam's Endemic Cycad, 
-\shape italic
-Cycas micronesica
-\shape default
-.
- International Symposium on Biological Control, Pucon, Chile.
- 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-hrule
-\end_layout
-
-\end_inset
-
- Despite attempted classical biological control with a predator and two
- parasitoids, greater than 90
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-% of Guam's endemic Cycas micronesica plants have been killed since
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-the island was invaded by the cycad aulacaspis scale (CAS), 
-\shape italic
-Aulacaspis yasumatsui
-\shape default
- (Hemiptera: Diaspididae) in 2003 (Marler and Lawrence, 2012).
- Prior to this invasion, 
-\shape italic
-C.
- micronesica
-\shape default
- was the most numerous plant in Guam's forests with a stem diameter greater
- than five inches (Donnegan et al.
- 2004).
- The CAS infestation was so severe that by 2006 
-\shape italic
-C.
- micronesica
-\shape default
- was listed as endangered by the International Union for Conservation of
- Nature (Marler et al., 2006).
- This ecological disaster is still unfolding.
- Marler and Lawrence (2012) predict extirpation of wild cycads on Guam by
- 2019 if current trends persist.
-\end_layout
-
-\begin_layout Standard
-CAS, described by Takagi (1977), is considered a minor pest of Cycas within
- its native Asian range (Anonymous 2006a), presumably as a result of natural
- biological control organisms.
- Outside of its native range, where CAS has escaped its natural enemies,
- it is a very serious pest of Cycas.
- This scale insect infests all parts of the plant including roots and reproducti
-ve structures.
- CAS is small enough to invade minute cracks and crevices where it is undetectab
-le during quarantine inspections (Marler and Moore 2010).
- In the absence of chemical or biological control, infested plants become
- totally encrusted with multiple layers of CAS within a few months and die
- within a year (Anonymous 2006a).
- Accidental introduction of CAS to Florida in the 1990s (Howard et al.
- 1999) initiated subsequent invasions of the pest throughout several other
- states within the United States and other countries (Anonymous 2006b).
- In the Pacific, CAS was first detected in Hawaii in 1998, Taiwan in 2000,
- Guam in 2003, Rota in 2007, and Palau in 2008.
- The presumed pathway for this invasive species is movement of scales attached
- to cycads in the ornamental plant trade, although accidental, long-range
- movement of scale crawlers is an alternate invasion pathway.
-\end_layout
-
-\begin_layout Standard
-CAS infestation on Guam progressed very rapidly.
- Initial detection in December, 2003 was on 
-\shape italic
-Cycas revoluta
-\shape default
- and 
-\shape italic
-C.
- micronesica
-\shape default
- growing in floral displays at the entrances to two of Guam's major hotels.
- Within a year the infestation had spread into a nearby population of wild
- 
-\shape italic
-C.
- micronesica
-\shape default
- and by 2006, the infestation was island-wide and plants had started dying
- in large numbers.
-\end_layout
-
-\begin_layout Standard
-We observed no pre-existing natural enemies during frequent surveys of infested
- plants.
- A predator, 
-\shape italic
-Rhyzobius lophanthae
-\shape default
- (Coleoptera: Coccinellidae) and a parasitoid, Coccobius fulvus (Hymenoptera:
- Aphelinidae) were imported for CAS biocontrol during 2004 and 2005 (Moore
- et al.
- 2005).
- A second parasitoid, 
-\shape italic
-Aphytis lignanensis
-\shape default
- (Hymenoptera: Aphelinidae), was imported in 2012.
- The predator established rapidly.
- However, both parasitoids failed to establish in captivity and in the field.
-\end_layout
-
-\begin_layout Standard
-About 100 
-\shape italic
-R.
- lophanthae
-\shape default
-, were field collected on Maui, Hawaii in November 2004, flown to Guam and
- reared for one month in quarantine.
- Field releases on CAS- infested, wild 
-\shape italic
-C.
- micronesica
-\shape default
- at Ritidian Point were initiated in February 2005.
- The beetle established immediately and its initial population explosion
- peaked in the vicinity of the release site in June 2005, when we counted
- up to 57 adults per minute in visual inspections of infested wild 
-\shape italic
-C.
- micronesica
-\shape default
-.
- We also monitored adult beetles, scale crawlers, and male scales at Ritidian
- using a transect of yellow sticky cards.
- The resulting time series data clearly indicate collapse of the CAS population
- following introduction of the predator followed by establishment of a dynamic
- equilibrium with scale levels near the trapping detection threshold (Fig.
- 1).
- Following establishment at Ritidian, more than 7,450 laboratory reared
- and field collected 
-\shape italic
-R.
- lophanthae
-\shape default
- adults were introduced at 115 sites throughout Guam by collaborators.
-\end_layout
-
-\begin_layout Standard
-
-\shape italic
-R.
- lophanthae
-\shape default
- adults and grubs are voracious predators of CAS.
- Eggs are laid beneath female scale covers were first instar grubs consume
- the adult scale.
- Later instar grubs and adults feed on female and male scales.
- 
-\shape italic
-R.
- lophanthae
-\shape default
- are currently ubiquitous throughout Guam.
- They are preventing mortality of mature cycads from scale infestation,
- but residual scales on these trees are preventing vigorous growth and seed
- production.
- More importantly, even though 
-\shape italic
-R.
- lophanthae
-\shape default
- are ubiquitous within their habitat, all 
-\shape italic
-C.
- micronesica
-\shape default
- seedlings become infested with CAS and eventually die (Marler and Lawrence
- 2012).
- Thus, with no reproduction occurring, health of the 
-\shape italic
-C.
- micronesica
-\shape default
- population is still in decline.
- We offer two explanations for the partial failure of 
-\shape italic
-R.
- lophanthae
-\shape default
- as a biocontrol agent for CAS: 
-\end_layout
-
-\begin_layout Enumerate
-Marler et al.
- (2012) provide evidence that the 
-\shape italic
-R.
- lophanthae
-\shape default
- predation rate decreases near the ground.
- This at least partially explains why seedlings are more vulnerable to mortality
- from scale infestation than mature plants.
- 
-\end_layout
-
-\begin_layout Enumerate
-
-\shape italic
-R.
- lophanthae
-\shape default
- is much larger than CAS and it is not able to prey on individuals living
- in small cracks and crevices on the plant.
- CAS living in refugia provide a steady stream of crawlers which rapidly
- repopulate external surfaces of the plant during periods of low predation.
- 
-\end_layout
-
-\begin_layout Standard
-We suggest that there is a urgent need to introduce one or more smaller
- biocontrol agents which are active near the ground and can follow CAS into
- its refugia.
-\end_layout
-
-\begin_layout Standard
-Unfortunately, attempts to introduce CAS parasitoids to Guam have failed.
- A Chinese strain of 
-\shape italic
-Coccobius fulvus
-\shape default
- from Florida was imported and released several times starting in 2005.
- On each occasion, the parasitoids died out both in the field and the laboratory
-, probably out-competed by 
-\shape italic
-R.
- lophanthae
-\shape default
- (G.V.B.
- Reddy, personal communication).
- We are currently attempting to introduce 
-\shape italic
-Aphytis lignanensis
-\shape default
- (Hymenoptera: Aphelinidae) which coexists with 
-\shape italic
-R.
- lophanthae
-\shape default
- as a CAS biocontrol agent in Texas (Flores and Carlson 2009) and Hawaii
- (B.
- Kumashiro, personal communication).
- In 2012, we imported about 100 
-\shape italic
-A.
- lignanensis
-\shape default
- adults from Honolulu, Hawaii.
- These wasps were reared from CAS infesting Cycas revoluta in a home garden.
- (There are no wild cycads in Hawaii.) We put these wasps in a cage containing
- CAS-infested 
-\shape italic
-C.
- micronesica
-\shape default
- leaves.
- We had carefully removed all visible 
-\shape italic
-R.
- lophanthae
-\shape default
- adults and grubs from these leaves, but there were enough beetle eggs and
- first instar larvae hiding beneath scale covers to consume all scales before
- any adult wasps emerged.
- In our next attempt, we will present imported 
-\shape italic
-A.
- lignanensis
-\shape default
- with caged 
-\shape italic
-C.
- revoluta
-\shape default
- infested with CAS but without 
-\shape italic
-R.
- lophanthae
-\shape default
-.
-\end_layout
-
-\begin_layout Standard
-Our immediate objective is to establish a biocontrol agent, in addition
- to 
-\shape italic
-R.
- lophanthae
-\shape default
-, which will provide adequately protect 
-\shape italic
-C.
- micronesica
-\shape default
- seedlings from CAS-related mortality so that this important endemic plant
- species can start to recover.
- 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-hrule
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Since writing the above abstract, there has been a fortuitous (accidental)
- introduction of a cycad scale parasitoid to Guam.
- I discovered this parasitoid, which has recently been identified as 
-\shape italic
-Arrhenophagus
-\shape default
- sp., about a year and a half ago and thought that it would not be of much
- assistance in controling CAS when I discovered that it attacks only male
- scale insects.
- However, I may have been wrong because there is circumstantial evidence
- that CAS is being controlled by this parasitoid despite its sexual preference.
 \end_layout
 
 \begin_layout Paragraph
 Planned Activity
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
+Determine if the parasitoid 
+\emph on
+Coccobius fulvus
+\emph default
+ which was released twice at Ritidian at the end of 2016 has established.
+\end_layout
+
+\begin_layout Enumerate
 Evaluate the impact of 
 \shape italic
 Arrhenophagus
@@ -2247,63 +1843,8 @@ Arrhenophagus
  on the Guam cycad population 
 \end_layout
 
-\begin_layout Itemize
-Write and submit a peer-reviewed scientific journal article entitled something
- like 
-\emph on
-Fortuitous introduction of the parasitoid 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-underline{Arrhenophagus}
-\end_layout
-
-\end_inset
-
- sp.
- to Guam and its impact on cycas aulacaspis scale, 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-underline{Aulacaspis yasumatsui}
-\end_layout
-
-\end_inset
-
-, infesting endemic cycads, 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-underline{Cycas micronesica}
-\end_layout
-
-\end_inset
-
-
-\emph default
-.
- 
-\end_layout
-
-\begin_layout Itemize
-If Ron Cave is willing to collect 
-\shape italic
-Coccobius fulvus
-\shape default
- again and if APHIS approves, attempt a direct field release of this parasitoid.
- 
+\begin_layout Enumerate
+Write and submit a peer-reviewed scientific journal article on CAS biocontrol.
 \end_layout
 
 \begin_layout Paragraph
@@ -2311,7 +1852,7 @@ Planned Evidence of Accomplishment
 \end_layout
 
 \begin_layout Standard
-None.
+Peer reviewed article on CAS biocontrol.
 \end_layout
 
 \begin_layout Paragraph
@@ -2322,31 +1863,8 @@ Planned Evaluation By
 Actual Activity
 \end_layout
 
-\begin_layout Enumerate
-Journal article not written due to lack of time.
-\end_layout
-
-\begin_layout Enumerate
-Made direct releases of 
-\emph on
-Coccobius fulvus
-\emph default
- at Ritidian in September and November 2015.
- 
-\emph on
-C.
- fulvus
-\emph default
- has not been reared from recent leaf collections, so there is no proof
- that this parasitoid has established.
-\end_layout
-
 \begin_layout Paragraph
 Actual Evidence of Accomplishment
-\end_layout
-
-\begin_layout Standard
-None.
 \end_layout
 
 \begin_layout Paragraph
@@ -2364,10 +1882,6 @@ Actual Evaluation By
 Guam Forest Insect Survey 
 \end_layout
 
-\begin_layout Paragraph
-Planned Activity
-\end_layout
-
 \begin_layout Standard
 The objective of the proposed survey is to build a knowledgebase on insects
  associated with plants in Guam's forests.
@@ -2382,11 +1896,16 @@ The objective of the proposed survey is to build a knowledgebase on insects
 \end_layout
 
 \begin_layout Paragraph
-Planned Evidence of Accomplishment
+Planned Activity
 \end_layout
 
-\begin_layout Standard
-None
+\begin_layout Enumerate
+Information on insects associated with Guam's forest plants will be made
+ available online.
+\end_layout
+
+\begin_layout Paragraph
+Planned Evidence of Accomplishment
 \end_layout
 
 \begin_layout Paragraph
@@ -2397,24 +1916,8 @@ Planned Evaluation By
 Actual Activity
 \end_layout
 
-\begin_layout Enumerate
-McIntire Stennis FY2015 Annual Report 
-\begin_inset CommandInset citation
-LatexCommand cite
-after "hard copy provided"
-key "mooremcintirestennis"
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Paragraph
 Actual Evidence of Accomplishment
-\end_layout
-
-\begin_layout Standard
-Please refer to the above reference.
 \end_layout
 
 \begin_layout Paragraph
@@ -2472,7 +1975,11 @@ Planned Activity
 
 \begin_layout Enumerate
 Propagate and maintain at least 100 plants of each of the eight-spot's known
- host plants, Procris pendunculata and Elatostema calcareum in a plant nursery.
+ host plants, Procris pendunculata and 
+\emph on
+Elatostema calcareum
+\emph default
+ in a plant nursery.
  
 \end_layout
 
@@ -2499,7 +2006,7 @@ Planned Evidence of Accomplishment
 \end_layout
 
 \begin_layout Standard
-None.
+Technical reports.
 \end_layout
 
 \begin_layout Paragraph
@@ -2510,52 +2017,79 @@ Planned Evaluation By
 Actual Activity
 \end_layout
 
-\begin_layout Enumerate
-Twelve 
-\emph on
-Procris
-\emph default
- plants were collected and propogated by Lauren Guttierez.
- These plants were delivered to the Yigo Ag.
- Expt.
- Stn.
- and were immediately attacked by Cuban slugs.
- Prior to this observation, introduced slugs were not considered as serious
- competitors for 8-spot butterfly host plants.
-\end_layout
-
-\begin_layout Enumerate
-A contract was written to support Lauren Guttierez as a collaborator on
- the project.
- Guttierez's role is to collect and propogate host plants.
- Due to beaurocratic delays, the contract has not yet been signed by UOG.
-\end_layout
-
-\begin_layout Enumerate
-In November 2015, Hypolimnus octocula marianensis was list by the US Fish
- and Wildlife Service as an endangered species.
- A permit is now required to perform scientific work aimed at conserving
- this species.
- A permit application has been written 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "aubreymoore2016application"
-
-\end_inset
-
-.
-\end_layout
-
 \begin_layout Paragraph
 Actual Evidence of Accomplishment
 \end_layout
 
+\begin_layout Paragraph
+Actual Evaluation By
+\end_layout
+
 \begin_layout Standard
-Surviving 
-\emph on
-Procris
-\emph default
- plants are growing in front of ALS105.
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Guam Biodiversity Inventory
+\end_layout
+
+\begin_layout Standard
+A checklist of organisms on Guam and their ecological relationships will
+ be built using modern biodiversity informatics standards.
+ This checklist will have multiple uses including documentation of invasive
+ species and interactions among taxa.
+\end_layout
+
+\begin_layout Paragraph
+Planned Activity
+\end_layout
+
+\begin_layout Enumerate
+Design and build Check List Plus (CLP) an online database to store a 
+\begin_inset Quotes eld
+\end_inset
+
+tree of life
+\begin_inset Quotes erd
+\end_inset
+
+ for Guam using a reference taxonomy from the National Center for Biotechnology
+ (NCBI).
+ The database will contain synonyms, references (to the literature, observations
+ and specimens), and ecological relationships (such as links between herbivores
+ and host plants).
+\end_layout
+
+\begin_layout Enumerate
+Populate CLP with the flora and fauna of Guam from the scientific literature.
+ Initial targets will include a list of all crops and important forest plants
+ growing on Guam, insect pests that feed on these plants, and biocontrol
+ agents controlling these insects.
+\end_layout
+
+\begin_layout Paragraph
+Planned Evidence of Accomplishment
+\end_layout
+
+\begin_layout Standard
+An online database which can be queried to return useful information such
+ as a list of all caterpillars feeding on cabbage on Guam with links to
+ images and fact sheets for these species.
+\end_layout
+
+\begin_layout Paragraph
+Planned Evaluation By
+\end_layout
+
+\begin_layout Paragraph
+Actual Activity
+\end_layout
+
+\begin_layout Paragraph
+Actual Evidence of Accomplishment
 \end_layout
 
 \begin_layout Paragraph
@@ -2577,24 +2111,13 @@ University and Community Services (15%)
 Instruction 
 \end_layout
 
-\begin_layout Standard
-In addition to my job as an extension entomologist, I am required to teach
- a four credit course every year.
-\end_layout
-
 \begin_layout Paragraph
 Planned Activity
 \end_layout
 
 \begin_layout Enumerate
-I will teach General Entomology AG/BIO-345 during the Fall 2015 term.
- This is a 4 credit course consisting of 2 lectures per week plus a 3 hour
- lab session.
- 
-\end_layout
-
-\begin_layout Enumerate
-I plan to have Ian Iriarte as my first masters student in the EV program.
+I will serve as Ian Iriarte's major professor during his masters program
+ in environmental science.
  
 \end_layout
 
@@ -2614,141 +2137,8 @@ Planned Evaluation By
 Actual Activity
 \end_layout
 
-\begin_layout Enumerate
-I taught General Entomology AG/BIO-345 during the Fall 2015 term.
-\end_layout
-
-\begin_layout Enumerate
-I reccruited Ian Iriarte as my first masters student in the EV program and
- secured support for his first year from my FY2016 Farm Bill grant (CRB-G
- Biocontrol).
-\end_layout
-
 \begin_layout Paragraph
 Actual Evidence of Accomplishment
-\end_layout
-
-\begin_layout Enumerate
-Syllabus for General Entomology AG/BIO-345.
- 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "aubreymooresyllabus"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Web site for General Entomology AG/BIO-345 (static web site built using
- Pelican) 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "aubreymooreagbi345"
-
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Enumerate
-Student evaluation for General Entomology AG/BIO-345.
-\end_layout
-
-\begin_layout Paragraph
-Actual Evaluation By
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsubsection
-Service as a Reviewer 
-\end_layout
-
-\begin_layout Paragraph
-Planned Activity
-\end_layout
-
-\begin_layout Standard
-none
-\end_layout
-
-\begin_layout Paragraph
-Planned Evidence of Accomplishment
-\end_layout
-
-\begin_layout Standard
-none
-\end_layout
-
-\begin_layout Paragraph
-Planned Evaluation By
-\end_layout
-
-\begin_layout Paragraph
-Actual Activity
-\end_layout
-
-\begin_layout Enumerate
-Acted as external examiner for master's student John Tuivavalagi, University
- of Queensland.
- I was an external examiner of his thesis entitled 
-\emph on
-Investigating the impacts of the natural enemy Trichogramma chilonis Ishii
- on populations of Crocidolomia pavonana in Samoa.
- 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "aubreymoorereviewof"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-September 2015: I acted as peer reviewer for Public Library of Science (PLoS)
- manuscript PONE-D-15-29086R1 
-\series bold
-Insect Biometrics: Optoacoustic signal processing and its applications to
- remote monitoring of McPhail type traps.
-
-\series default
- submitted by Ilyas Potamitis.
- 
-\end_layout
-
-\begin_layout Enumerate
-July 2016: I acted as peer reviewer for Journal of Medical Entomology manuscript
- JME-2016-0177 
-\series bold
-2D optoacoustic sensors embedded in mosquito insectary cages report species
- identity through wingbeats.
-
-\series default
- submitted by Ilyas Potamis et al.
- 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "aubreymoorepeerreview"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Paragraph
-Actual Evidence of Accomplishment
-\end_layout
-
-\begin_layout Standard
-See references above.
 \end_layout
 
 \begin_layout Paragraph
@@ -2787,11 +2177,6 @@ Planned Evaluation By
 Actual Activity
 \end_layout
 
-\begin_layout Standard
-I continue to serve on UTAC as the representative for the College of Natural
- and Applied Sciences.
-\end_layout
-
 \begin_layout Paragraph
 Actual Evidence of Accomplishment
 \end_layout
@@ -2816,8 +2201,8 @@ Planned Activity
 \end_layout
 
 \begin_layout Standard
-None.
- This is an unplanned activity.
+I will continue to serve as chair of the Faculty Building Facilities Committee
+ for the ALS
 \end_layout
 
 \begin_layout Paragraph
@@ -2832,51 +2217,8 @@ Planned Evaluation By
 Actual Activity
 \end_layout
 
-\begin_layout Enumerate
-I became chair of this committee when Dr.
- Laura Biggs left during 2015.
-\end_layout
-
-\begin_layout Enumerate
-Documented air conditioning problems, especially exessively high humidity
- (>60% RH) and met with Dr.
- Rachel Leon Guerrero and Jesse Rosario to discuss possible solutions
-\end_layout
-
-\begin_layout Enumerate
-Procured a large screen HDTV for the teaching lab (ALS 124) (Thanks to Jim
- Hollyer for help with this)
-\end_layout
-
-\begin_layout Enumerate
-Installed Internet cable to provide sufficient bandwidth for streaming video
- (Thanks to Rudy Magallanes for help with this)
-\end_layout
-
-\begin_layout Enumerate
-Organized clean up of the teaching lab following the Fall 2015 semester.
-\end_layout
-
-\begin_layout Enumerate
-Compiled recommendations for improving the ALS 124 as a science teaching
- environment.
-\end_layout
-
 \begin_layout Paragraph
 Actual Evidence of Accomplishment
-\end_layout
-
-\begin_layout Enumerate
-Recommendations for improving the ALS 124 as a science teaching environment
- 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "aubreymoorefaculty"
-
-\end_inset
-
- and obtained a quote for installation of audiovisual equipment.
- 
 \end_layout
 
 \begin_layout Paragraph
@@ -2902,93 +2244,8 @@ Publications and Other Media Produced During The Review Period
 Peer Reviewed Journal Articles
 \end_layout
 
-\begin_layout Enumerate
-Moore et al.
- 2015.
- Coconut rhinoceros beetles (Coleoptera : Scarabaeidae) develop in arboreal
- breeding sites in Guam.
- Florida Entomologist 98(3) 1012-1014.
- 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "moore2015coconut"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Moore et al.
- 2016.
- Movement of packaged soil products as a dispersal pathway for coconut rhinocero
-s beetle, Oryctes rhinoceros (Coleoptera:Scarabaeidae) and other invasive
- species.
- Proceedings of the Hawaiian Entomological Society [In press].
- 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "moore2016movement"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Moore et al.
- 2016.
- Judas beetles: Discovering cryptic breeding sites by radio-tracking coconut
- rhinoceros beetles, 
-\emph on
-Oryctes rhinoceros
-\emph default
- (Coleoptera: Scarabaeidae).
- Journal of Environmental Entomology [Submitted] 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "moore2016judasbeetles"
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Subsubsection
 Fact Sheets
-\end_layout
-
-\begin_layout Enumerate
-Vaqalo, M., Marshall, S., Jackson, T., & Moore, A.
- (2015).
- An emerging biotype of coconut rhinoceros beetle discovered in the Pacific
- (Pest Alert No.
- 51) (p.
- 2).
- Secretariat of the Pacific Community.
- 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "vaqalo2015pestalert"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Moore, A.
- (2015).
- The new Pacific pests and pathogens app.
- In Pacific Pest Detector News 23.
- 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "wpdnppdnewsno22jun2015pdf"
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Subsubsection
@@ -3005,96 +2262,8 @@ name "sub:Grant-Proposals-Submitted"
 Grant Proposals Submitted During the Review Period
 \end_layout
 
-\begin_layout Enumerate
-USDA-Aphis Biocontrol Program: 
-\emph on
-Oryctes nudivirus for biocontrol of the Guam biotype of the coconut rhinoceros
- beetle
-\emph default
-.; $20,000 requested; Not funded; Proposal
-\begin_inset CommandInset citation
-LatexCommand cite
-key "moore2015oryctes"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-2015-16 USDA Farm Bill: 
-\emph on
-Oryctes nudivirus for biocontrol of the Guam biotype of the coconut rhinoceros
- beetle
-\emph default
-; $120,000 requested; $100,000 awarded; Work plan 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "moore2016farmbill"
-
-\end_inset
-
- 
-\end_layout
-
-\begin_layout Enumerate
-US Forest Service: 
-\emph on
-Detector Beetles: Radio-Tracking Coconut Rhinoceros Beetles (CRB) to Discover
- Breeding Sites and CRB Biocontrol; 
-\emph default
-$40,000 requested; $40,000 awarded; Proposal 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "moore2016usforest"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-McIntire-Stennis
-\end_layout
-
-\begin_layout Enumerate
-Dean's 2016 High-impact Project Pool Competition: 
-\emph on
-Coconut rhino beetle as a transmission vector for Tinangaja disease.; 
-\emph default
-$39,911 requested; ???? awarded; Proposal 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "blas2016deans2016"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-US Fish and Wildlife Service FY2016 (funds passed through GDOA-DAWR via
- an MOU): 
-\emph on
-Establishment of Captive and Establishment of Captive and Managed Populations
- of Mariana Eight-spot Butterfly
-\emph default
-;$18,000 requested; $18,000 awarded; Work Plan 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "moore2016fwsproposal"
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Subsection
 Grants Awarded During the Review Period
-\end_layout
-
-\begin_layout Standard
-Indicated above.
 \end_layout
 
 \begin_layout Standard
