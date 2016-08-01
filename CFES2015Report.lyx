@@ -7,6 +7,7 @@
 \usepackage{mciteplus}
 \usepackage{comment}
 \end_preamble
+\options fontsize=12pt
 \use_default_options true
 \maintain_unincluded_children false
 \language english
@@ -42,7 +43,7 @@
 \pdf_pdfusetitle true
 \pdf_quoted_options "linkcolor=blue,citecolor=blue,urlcolor=blue"
 \papersize default
-\use_geometry false
+\use_geometry true
 \use_amsmath 1
 \use_esint 1
 \use_mhchem 1
@@ -57,6 +58,10 @@
 \shortcut idx
 \color #008000
 \end_index
+\leftmargin 0.5in
+\topmargin 0.5in
+\rightmargin 0.5in
+\bottommargin 0.5in
 \secnumdepth 3
 \tocdepth 3
 \paragraph_separation indent
@@ -791,7 +796,7 @@ As an official USDA-APHIS cooperator, I am obligated to identify insects
 Planned Activity
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Identify insects and make control recommendations when requested.
 \end_layout
 
@@ -799,24 +804,30 @@ Identify insects and make control recommendations when requested.
 Planned Evidence of Accomplishment
 \end_layout
 
-\begin_layout Standard
-None 
+\begin_layout Enumerate
+Records of insect identifications and control recommendations, some in the
+ form of iNaturalist observation postings.
+ 
 \end_layout
 
 \begin_layout Paragraph
 Planned Evaluation By
 \end_layout
 
+\begin_layout Standard
+Jim Hollyer
+\end_layout
+
 \begin_layout Paragraph
 Actual Activity
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 The number of extension calls requiring my assistance during the reporting
  year averaged approximately three per day.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 During this reporting year, my USDA-APHIS cooperator workload was very high
  because the Guam Territorial Entomologist retired and there was a campaign
  to intercept pests arriving with the Pacific Festival of the Arts.
@@ -827,7 +838,7 @@ During this reporting year, my USDA-APHIS cooperator workload was very high
 Actual Evidence of Accomplishment
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 Insect diagnostic cases documented as iNat observations: 
 \begin_inset CommandInset citation
 LatexCommand cite
@@ -838,7 +849,7 @@ key "aubreymooreinaturalistorg"
 
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 Press stories on flies discovered in nipa leaves imported from the Philippines
  for FestPac: 
 \begin_inset CommandInset citation
@@ -850,7 +861,7 @@ key "blueflies,festpac,invasive,ourview,quarantine"
 
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 On May 26, 2016 I wrote a press release +=with Olympia Terral, intended
  to highlight cooperation among GCQA, Guam Agriculture, USDA-APHIS, and
  UOG: 
@@ -863,7 +874,7 @@ key "pressrelease"
 
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 Press stories triggerred by the above press release: 
 \begin_inset CommandInset citation
 LatexCommand cite
@@ -883,6 +894,10 @@ key "guamprevents"
 
 \begin_layout Paragraph
 Actual Evaluation By
+\end_layout
+
+\begin_layout Standard
+Jim Hollyer
 \end_layout
 
 \begin_layout Standard
