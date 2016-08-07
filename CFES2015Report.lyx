@@ -854,7 +854,7 @@ Press stories on flies discovered in nipa leaves imported from the Philippines
  for FestPac: 
 \begin_inset CommandInset citation
 LatexCommand cite
-key "blueflies,festpac,invasive,ourview,quarantine"
+key "blueflies,festpac,invasive2,ourview,quarantine2"
 
 \end_inset
 
@@ -1486,7 +1486,7 @@ key "marshall2015anew"
 Fact sheet on CRB-G prepared for SPC 
 \begin_inset CommandInset citation
 LatexCommand cite
-key "vaqalo2015pestalert"
+key "vaqalo2015anemerging"
 
 \end_inset
 
@@ -1500,7 +1500,7 @@ Made a presentation on CRB-G and participated in discussions on a coordinated
  
 \begin_inset CommandInset citation
 LatexCommand cite
-key "pacificcommunitypppo2015"
+key "pacificcommunity2015summary"
 
 \end_inset
 
@@ -2066,7 +2066,7 @@ key "aubreymooreinsects"
 Git, GitHub 
 \begin_inset CommandInset citation
 LatexCommand cite
-key "aubreymooreaubreymoors"
+key "aubreymooreaubreymoores"
 
 \end_inset
 
@@ -2239,7 +2239,7 @@ Made a presentation on CRB-G and participated in discussions on a coordinated
  
 \begin_inset CommandInset citation
 LatexCommand cite
-key "pacificcommunitypppo2015"
+key "pacificcommunity2015summary"
 
 \end_inset
 
@@ -3091,6 +3091,8 @@ key "aubreymooreagbi345"
 
 \begin_layout Enumerate
 Student evaluation for General Entomology AG/BIO-345.
+ My score (3.63) was above the university average (3.55) and the CNAS average
+ (3.48).
 \end_layout
 
 \begin_layout Paragraph
@@ -3136,9 +3138,12 @@ Actual Activity
 Acted as external examiner for master's student John Tuivavalagi, University
  of Queensland.
  I was an external examiner of his thesis entitled 
+\series bold
 \emph on
 Investigating the impacts of the natural enemy Trichogramma chilonis Ishii
- on populations of Crocidolomia pavonana in Samoa.
+ on populations of Crocidolomia pavonana in Samoa
+\series default
+.
  
 \begin_inset CommandInset citation
 LatexCommand cite
@@ -3406,7 +3411,7 @@ Vaqalo, M., Marshall, S., Jackson, T., & Moore, A.
  
 \begin_inset CommandInset citation
 LatexCommand cite
-key "vaqalo2015pestalert"
+key "vaqalo2015anemerging"
 
 \end_inset
 
@@ -3430,6 +3435,120 @@ key "wpdnppdnewsno22jun2015pdf"
 
 \begin_layout Subsubsection
 Presentations
+\end_layout
+
+\begin_layout Enumerate
+Ares, M.
+ A., Meneses, N., Smith, A., Moore, A., & Benford, R.
+ (2015).
+ Molecular Identification of a Lepidopteran Herbivore on a Critically Endangered
+ Tree.
+ Northern Arizona Undergraduate Symposium 2015.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "ares2015molecular"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Marshall, S.
+ D.
+ G., Vaqalo, M., Moore, A., Quitugua, R., & Jackson, T.
+ A.
+ (2015).
+ A new invasive biotype of the coconut rhinoceros beetle (Oryctes rhinoceros)
+ has escaped from biocontrol by Oryctes rhinoceros nudivirus.
+ In International Congress on Invertebrate Pathology and Microbial Control
+ and the 48th Annual Meeting of the Society for Invertebrate Pathology.
+ Retrieved from http://www.sipmeeting.org/van1/SIP2015-Full Program.pdf 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "marshall2015anew"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Moore, A.
+ (2015).
+ A report on the Guam coconut rhinoceros beetle infestation for the 8th
+ Pacific Plant Protection Organisation Board Meeting and 16th Regional Technical
+ Meeting on Plant Protection.
+ Nadi, Fiji.
+ September 21-25, 2015.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Moore, A, (2015).
+ Update on the Guam Coconut Rhinoceros Beetle for the Guam Invasive Species
+ Council.
+ Guam, November 20, 2015.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "aubreymoore2015updateon"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Aubrey Moore.
+ (2016, March).
+ Guam Report.
+ Presented at the National Plant Diagnostics Network Meeting, Washington,
+ D.C.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "aubreymoore2016guamreport"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Aubrey Moore.
+ (2016, April).
+ New variant of rhinoceros beetle, Guam biotype, and implications for global
+ control.
+ Presented at the Annual Meeting of the Pacific Branch of the Entomological
+ Society of America, Honolulu, Hawaii.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "aubreymoore2016discovery"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Aubrey Moore.
+ (2016, June).
+ Discovery of the Coconut Rhinoceros Beetle Guam Biotype and Implications
+ for Global Control.
+ Presented at the Future proofing the palm industries: Limiting damage by
+ existing (CRB-P) and invasive (CRB-G) coconut rhinoceros beetle (Oryctes
+ rhinoceros) in the Pacific, Suva, Fiji.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "aubreymoore2016discovery2"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
@@ -3491,7 +3610,9 @@ key "moore2016usforest"
 \end_layout
 
 \begin_layout Enumerate
-McIntire-Stennis
+McIntire-Stennis.
+ Guam Forest Pest Survey.
+ $5,000
 \end_layout
 
 \begin_layout Enumerate
@@ -3499,7 +3620,7 @@ Dean's 2016 High-impact Project Pool Competition:
 \emph on
 Coconut rhino beetle as a transmission vector for Tinangaja disease.; 
 \emph default
-$39,911 requested; ???? awarded; Proposal 
+$39,911 requested; $39,911 awarded; Proposal 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "blas2016deans2016"
@@ -3531,7 +3652,8 @@ Grants Awarded During the Review Period
 \end_layout
 
 \begin_layout Standard
-Indicated above.
+As indicated above, applied for 6 grants with a total request of $242,911.
+ I was funded on 5 grants totalling $202,911.
 \end_layout
 
 \begin_layout Standard
